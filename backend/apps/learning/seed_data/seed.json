@@ -1,0 +1,2361 @@
+{
+  "course": {
+    "title": "General Ingiliz tili lug'atlari",
+    "slug": "general-english-vocabulary",
+    "description": ""
+  },
+  "lessons": [
+    {
+      "slug": "body-parts",
+      "title": "Odam ta'na a'zolari",
+      "cover_image_path": "/picture/human body.png",
+      "order": 1,
+      "cards": [
+        {
+          "order": 1,
+          "english": "Head",
+          "uzbek": "bosh",
+          "pronunciation": "hed",
+          "mnemonic_example": "Imagine a strange smell coming from your head.",
+          "translation": "Tasawur qiling boshingizdan g'alati hidlar kelyapti."
+        },
+        {
+          "order": 2,
+          "english": "Face",
+          "uzbek": "yuz",
+          "pronunciation": "feis",
+          "mnemonic_example": "Imagine a pure-hearted person whose face shines with grace.",
+          "translation": "Tasawur qiling ko'ngli toza odamning yuzi ham fayzli bo'lar ekan."
+        },
+        {
+          "order": 3,
+          "english": "Forehead",
+          "uzbek": "peshona",
+          "pronunciation": "forhed",
+          "mnemonic_example": "Imagine someone writing 'go away' on your forehead.",
+          "translation": "Tasawur qiling peshonangizga 'bor ket' deb yozib qo'yishdi."
+        },
+        {
+          "order": 4,
+          "english": "Nose",
+          "uzbek": "burun",
+          "pronunciation": "nouz",
+          "mnemonic_example": "Imagine you found a new way of using snuff through your nose.",
+          "translation": "Tasawur qiling nosni burun orqali chekyapsiz."
+        },
+        {
+          "order": 5,
+          "english": "Ear",
+          "uzbek": "quloq",
+          "pronunciation": "ier",
+          "mnemonic_example": "Imagine putting your ear to the ground to hear the heartbeat of the Earth.",
+          "translation": "Tasawur qiling yerga qulog'ingizni qo'yib yurak urishini tinglayapsiz."
+        },
+        {
+          "order": 6,
+          "english": "Mouth",
+          "uzbek": "og'iz",
+          "pronunciation": "maus",
+          "mnemonic_example": "Imagine Mickey Mouse entering your mouth.",
+          "translation": "Tasawur qiling sichqoncha Mikki Mous og'zingiz ichiga kirib ketdi."
+        },
+        {
+          "order": 7,
+          "english": "Throat",
+          "uzbek": "tomoq",
+          "pronunciation": "srout",
+          "mnemonic_example": "Imagine your throat is broken and you need to buy a new one.",
+          "translation": "Tasawur qiling tomog'ingizni srok sindirib yubordi va yangi tomoq sotib olishga majbur bo'ldingiz."
+        },
+        {
+          "order": 8,
+          "english": "Eyebrow",
+          "uzbek": "qosh",
+          "pronunciation": "aybrau",
+          "mnemonic_example": "Imagine someone suddenly pulling your eyebrows and you scream 'AAAY!!!'.",
+          "translation": "Tasawur qiling birov qoshimdan tortyapti deb baqirdingiz."
+        },
+        {
+          "order": 9,
+          "english": "Lips",
+          "uzbek": "lablar",
+          "pronunciation": "lips",
+          "mnemonic_example": "Imagine your lips cracking from eating too many chips and you cover them with plaster.",
+          "translation": "Chips yeyaverganingizdan lablaringiz yorilib ketdi va siz uni gipslab qo'ydingiz."
+        },
+        {
+          "order": 10,
+          "english": "Tooth",
+          "uzbek": "tish",
+          "pronunciation": "tuːθ",
+          "mnemonic_example": "Imagine your tooth hurts and you pour salt into your mouth.",
+          "translation": "Tishingiz og'riyapti, bir stakan tuzni og'izga solyapsiz."
+        },
+        {
+          "order": 11,
+          "english": "Hair",
+          "uzbek": "soch",
+          "pronunciation": "heir",
+          "mnemonic_example": "Imagine saying goodbye to your hair at the barber shop.",
+          "translation": "Tasawur qiling sartroshda sochingizdan ayrildingiz, u bilan xayrlashdingiz."
+        },
+        {
+          "order": 12,
+          "english": "Moustache",
+          "uzbek": "mo'ylab",
+          "pronunciation": "masteysh",
+          "mnemonic_example": "Imagine clowns wearing moustache masks.",
+          "translation": "Tasawur qiling mo'ylabli maska taqib yurgan masqarabozlarni."
+        },
+        {
+          "order": 13,
+          "english": "Cheek",
+          "uzbek": "yuz (yana)",
+          "pronunciation": "chik",
+          "mnemonic_example": "Imagine Chikko's cheeks turning red from shyness.",
+          "translation": "Tasawur qiling Chikkoning yuzi uyalganidan qizarib ketdi."
+        },
+        {
+          "order": 14,
+          "english": "Chin",
+          "uzbek": "iyak",
+          "pronunciation": "chin",
+          "mnemonic_example": "Imagine a porcelain chin like a piece of china.",
+          "translation": "Tasawur qiling chinni iyakni."
+        },
+        {
+          "order": 15,
+          "english": "Neck",
+          "uzbek": "bo'yin",
+          "pronunciation": "nek",
+          "mnemonic_example": "Imagine a Nexia car driving across your neck.",
+          "translation": "Tasawur qiling bo'yningizdan Nexia yuribdi."
+        },
+        {
+          "order": 16,
+          "english": "Shoulder",
+          "uzbek": "yelka",
+          "pronunciation": "sholder",
+          "mnemonic_example": "Imagine washing your shoulders with Head & Shoulders shampoo.",
+          "translation": "Tasawur qiling yelkangizni Head & Shoulders shampuniga yuvyapsiz."
+        },
+        {
+          "order": 17,
+          "english": "Chest",
+          "uzbek": "ko'krak",
+          "pronunciation": "chest",
+          "mnemonic_example": "Imagine giving a chest box to a lieutenant by placing it on his chest.",
+          "translation": "Tasawur qiling leytenantning ko'kragiga qarab unga 'chest' berdingiz."
+        },
+        {
+          "order": 18,
+          "english": "Heart",
+          "uzbek": "yurak",
+          "pronunciation": "hart",
+          "mnemonic_example": "Imagine sending your heart’s data stored on a hard disk.",
+          "translation": "Tasawur qiling yuragingizni ma'lumotini hard diskka solib jo'natyapsiz."
+        },
+        {
+          "order": 19,
+          "english": "Stomach",
+          "uzbek": "qorin",
+          "pronunciation": "stamək",
+          "mnemonic_example": "Imagine a dentist now treating not teeth but stomachs.",
+          "translation": "Tasawur qiling stomotolog endi tish emas, qorin davolayapti."
+        },
+        {
+          "order": 20,
+          "english": "Back",
+          "uzbek": "bel, orqa",
+          "pronunciation": "bek",
+          "mnemonic_example": "Imagine translating the name Sanjarbek as 'Sanjar-back'.",
+          "translation": "Tasawur qiling Sanjarbek ismini inglizchaga tarjima qildingiz – Sanjarbel."
+        },
+        {
+          "order": 21,
+          "english": "Wrist",
+          "uzbek": "bilak",
+          "pronunciation": "rist",
+          "mnemonic_example": "Imagine a lawyer putting handcuffs on your wrist.",
+          "translation": "Tasawur qiling bir yurist kelib bilagingizga kishan soldi."
+        },
+        {
+          "order": 22,
+          "english": "Hand",
+          "uzbek": "qo'l",
+          "pronunciation": "hend",
+          "mnemonic_example": "Imagine throwing a melon with your hand like a juggler.",
+          "translation": "Tasawur qiling qo'lingizdagi handalakni tepaga otib o'ynayapsiz."
+        },
+        {
+          "order": 23,
+          "english": "Finger",
+          "uzbek": "barmoq",
+          "pronunciation": "fingə",
+          "mnemonic_example": "Imagine poking someone’s eye with your finger, leaving a bruise.",
+          "translation": "Tasawur qiling kimningdir ko'ziga barmog'ingizni tiqib fingal qildingiz."
+        },
+        {
+          "order": 24,
+          "english": "Nail",
+          "uzbek": "tirnoq",
+          "pronunciation": "neil",
+          "mnemonic_example": "Imagine losing your nails while swimming in the Nile river.",
+          "translation": "Tasawur qiling tirnoqlaringiz yo'q va siz Nil daryosida cho'milyapsiz."
+        },
+        {
+          "order": 25,
+          "english": "Elbow",
+          "uzbek": "tirsak",
+          "pronunciation": "elbou",
+          "mnemonic_example": "Imagine Elbek hurting his elbow with a stone.",
+          "translation": "Tasawur qiling Elbekning tirsagiga tosh tushib ketdi."
+        },
+        {
+          "order": 26,
+          "english": "Leg",
+          "uzbek": "oyoq",
+          "pronunciation": "leg",
+          "mnemonic_example": "Imagine washing your legs with lacquer.",
+          "translation": "Tasawur qiling oyoqlaringizni lak bilan yuvyapsiz."
+        },
+        {
+          "order": 27,
+          "english": "Knee",
+          "uzbek": "tizza",
+          "pronunciation": "ni",
+          "mnemonic_example": "Imagine putting henna on your knees.",
+          "translation": "Tasawur qiling tizzangizga xina surtyapsiz."
+        },
+        {
+          "order": 28,
+          "english": "Foot",
+          "uzbek": "oyoq",
+          "pronunciation": "fut",
+          "mnemonic_example": "Imagine your foot hitting a football.",
+          "translation": "Tasawur qiling oyog'ingiz to'pga tegdi."
+        },
+        {
+          "order": 29,
+          "english": "Heel",
+          "uzbek": "tovon",
+          "pronunciation": "hil",
+          "mnemonic_example": "Imagine your heel covered in many colorful spots.",
+          "translation": "Tasawur qiling tovoningizda xilma-xil dog'lar bor."
+        },
+        {
+          "order": 30,
+          "english": "Toe",
+          "uzbek": "oyoq barmog'i",
+          "pronunciation": "tou",
+          "mnemonic_example": "Imagine your toe nails stuck in salt.",
+          "translation": "Tasawur qiling oyoq barmoqlaringiz tirnoqlari tuzga botib qolgan."
+        },
+        {
+          "order": 31,
+          "english": "Beard",
+          "uzbek": "soqol",
+          "pronunciation": "byord",
+          "mnemonic_example": "Imagine a bird with a long beard.",
+          "translation": "Tasawur qiling uzun soqolli qushni."
+        },
+        {
+          "order": 32,
+          "english": "Bone",
+          "uzbek": "suyak",
+          "pronunciation": "boun",
+          "mnemonic_example": "Imagine cutting a melon and finding a bone inside.",
+          "translation": "Tasawur qiling qovun kesib edingiz, ichidan suyak chiqdi."
+        },
+        {
+          "order": 33,
+          "english": "Health",
+          "uzbek": "sog'lik",
+          "pronunciation": "hels",
+          "mnemonic_example": "Imagine a doctor saying, 'If you are healthy, you won’t be hopeless.'",
+          "translation": "Tasawur qiling doktor sog'liq bo'lsa, odam xafsiz bo'ladi dedi."
+        },
+        {
+          "order": 34,
+          "english": "Healthy",
+          "uzbek": "sog'lom",
+          "pronunciation": "helsi",
+          "mnemonic_example": "Imagine Chelsea football players being the healthiest in the world.",
+          "translation": "Tasawur qiling Chelsi futbolchilari dunyodagi eng sog'lom odamlar."
+        }
+      ]
+    },
+    {
+      "slug": "animals",
+      "title": "Hayvonlar",
+      "cover_image_path": "/picture/animals.png",
+      "order": 2,
+      "cards": [
+        {
+          "order": 1,
+          "english": "Cat",
+          "uzbek": "Mushuk",
+          "pronunciation": "[ket]",
+          "mnemonic_example": "Tasavvur qiling, mushuk yelkasiga ketmonni tashlab olib, dalada yuribdi;",
+          "translation": "Imagine a cat carrying a hoe on its shoulder, walking in the field."
+        },
+        {
+          "order": 2,
+          "english": "Dog",
+          "uzbek": "It, kuchuk",
+          "pronunciation": "[dog]",
+          "mnemonic_example": "Kuchuk akkillayverganidan, og'zini doka bilan bog'lab qo'ydingiz. Qanday vahshiylik!",
+          "translation": "The dog kept barking, so you tied its mouth with gauze. What cruelty!"
+        },
+        {
+          "order": 3,
+          "english": "Bird",
+          "uzbek": "Qush",
+          "pronunciation": "[byord]",
+          "mnemonic_example": "Kema bortida qushlar o'lib yotibdi, bu yomonlik alomati!",
+          "translation": "Birds are lying dead on the ship's deck; this is a sign of bad luck!"
+        },
+        {
+          "order": 4,
+          "english": "Squirrel",
+          "uzbek": "Olmaxon",
+          "pronunciation": "[skuirel]",
+          "mnemonic_example": "Skverda olmaxonlar qo'l ushlashib, sayr qilib yurishibdi. Bu chinakam dahshat!",
+          "translation": "In the park, squirrels are holding hands and strolling. This is truly terrifying!"
+        },
+        {
+          "order": 5,
+          "english": "Wolf",
+          "uzbek": "Bo'ri",
+          "pronunciation": "[uolf]",
+          "mnemonic_example": "Bir gala bo'rilar yig'ilib olib, golf o'ynashmoqda. Tavba, barcha hayvonlar odamiylashib ketishmoqda, qanday zamonlarga qoldik!",
+          "translation": "A pack of wolves gathered and started playing golf. Heavens, all animals are becoming human-like; what times we live in!"
+        },
+        {
+          "order": 6,
+          "english": "Goose",
+          "uzbek": "G'oz",
+          "pronunciation": "[gus]",
+          "mnemonic_example": "G'oz rus tilida gus deyiladi, buni eslab qolish oson;",
+          "translation": "A goose is called 'gus' in Russian; it's easy to remember."
+        },
+        {
+          "order": 7,
+          "english": "Giraffe",
+          "uzbek": "Jirafa",
+          "pronunciation": "[jiraf]",
+          "mnemonic_example": "Bu yerda birgina 'a' harfini olib tashlasangiz bas;",
+          "translation": "Just remove one 'a' here, and you're done."
+        },
+        {
+          "order": 8,
+          "english": "Rabbit",
+          "uzbek": "Quyon",
+          "pronunciation": "[rebbit]",
+          "mnemonic_example": "Robot quyonlar sizni o'rab olgan, endi qochib bo'psiz;",
+          "translation": "Robot rabbits have surrounded you; there's no escape now."
+        },
+        {
+          "order": 9,
+          "english": "Cow",
+          "uzbek": "Sigir",
+          "pronunciation": "[kau]",
+          "mnemonic_example": "Kal odam sigirini sochini olayotganini tasavvur qiling. Bu chinakam hasaddan nishona!",
+          "translation": "Imagine a bald man shaving the cow's hair. This is truly a sign of envy!"
+        },
+        {
+          "order": 10,
+          "english": "Rat",
+          "uzbek": "Kalamush",
+          "pronunciation": "[ret]",
+          "mnemonic_example": "Katta kalamush kichkina rediskani yeb, bo'kib qoldi. Hayratlanarli joyi yo'q!",
+          "translation": "A big rat ate a small radish and got bloated. Nothing surprising about it!"
+        },
+        {
+          "order": 11,
+          "english": "Fox",
+          "uzbek": "Tulki",
+          "pronunciation": "[foks]",
+          "mnemonic_example": "Tulki sirkda turli xil fokuslar ko'rsatyapti. San'atiga qoil!",
+          "translation": "The fox is performing various tricks in the circus. Admirable artistry!"
+        },
+        {
+          "order": 12,
+          "english": "Horse",
+          "uzbek": "Ot",
+          "pronunciation": "[hors]",
+          "mnemonic_example": "Issiq daladan charchab kelgan ot, muzdek mors ichib dam olib o'tiribdi;",
+          "translation": "A horse, tired from the hot field, is resting while drinking cold juice."
+        },
+        {
+          "order": 13,
+          "english": "Frog",
+          "uzbek": "Qurbaqa",
+          "pronunciation": "[frog]",
+          "mnemonic_example": "Tasavvur qiling, tvorog yeb o'tiribsiz, shunda birdan ichidan qurbaqa otilib chiqdi;",
+          "translation": "Imagine you’re eating cottage cheese, and suddenly a frog jumps out of it."
+        },
+        {
+          "order": 14,
+          "english": "Bear",
+          "uzbek": "Ayiq",
+          "pronunciation": "[biyer]",
+          "mnemonic_example": "Ayiq sizga gidlik qilyapti, mehmonxonani so'rasangiz ham 'bu yer', hojatxonani so'rasangiz ham 'bu yer', deyapti. Keyin bilsangiz, u bu yer so'zidan boshqa so'zni bilmas ekan;",
+          "translation": "The bear is teasing you; whether you ask for the hotel or the bathroom, it just says 'here.' Later, you find out it doesn’t know any other words."
+        },
+        {
+          "order": 15,
+          "english": "Mouse",
+          "uzbek": "Sichqon",
+          "pronunciation": "[maus]",
+          "mnemonic_example": "Santa Klaus sizga sovg'a sifatida katta sichqonni tashlab ketdi, xursand bo'ling, muhimi tashlab ketdiku, tashlab ketmasligi ham mumkin ediku!",
+          "translation": "Santa Claus left you a big mouse as a gift; be happy, the important thing is he left it, he could have not left it at all!"
+        },
+        {
+          "order": 16,
+          "english": "Monkey",
+          "uzbek": "Maymun",
+          "pronunciation": "[manki]",
+          "mnemonic_example": "Tasavvur qiling, maymun lanka o'ynayapti, qolganlar tomosha qilyapti. Hayratlanarlisi, bir soatdan buyon oyog'idan tushurmayapti;",
+          "translation": "Imagine a monkey playing with a hoop while others watch. Amazingly, it hasn’t dropped it for an hour."
+        },
+        {
+          "order": 17,
+          "english": "Pig",
+          "uzbek": "Cho'chqa",
+          "pronunciation": "[pig]",
+          "mnemonic_example": "Cho'chqa och qolgan, chiyillashni va xurillashni pikiga chiqqan, bechora!!!",
+          "translation": "The pig is starving, squealing and grunting at its peak, poor thing!!!"
+        },
+        {
+          "order": 18,
+          "english": "Elephant",
+          "uzbek": "Fil",
+          "pronunciation": "[elifent]",
+          "mnemonic_example": "Elflar filni ustiga chiqib olib, uni qiynab minib yurishibdi;",
+          "translation": "Elves climbed onto the elephant and are tormenting it by riding it."
+        },
+        {
+          "order": 19,
+          "english": "Duck",
+          "uzbek": "O'rdak",
+          "pronunciation": "[dak]",
+          "mnemonic_example": "O'rdak so'zini inglizlar bizdan olishgan. 'O'r'ni olib tashlasangiz, dak qoladi;",
+          "translation": "The English took the word 'duck' from us. Remove 'o'r,' and you’re left with 'dak.'"
+        }
+      ]
+    },
+    {
+      "slug": "professions",
+      "title": "Kasblar",
+      "cover_image_path": "/picture/jobs.png",
+      "order": 3,
+      "cards": [
+        {
+          "order": 1,
+          "english": "Job",
+          "uzbek": "Ish",
+          "pronunciation": "[job]",
+          "mnemonic_example": "Jobir ismli tanishingiz ish qidirib yuripti;",
+          "translation": "Your acquaintance named Jobir is looking for a job."
+        },
+        {
+          "order": 2,
+          "english": "Businessman",
+          "uzbek": "Tadbirkor",
+          "pronunciation": "[biznesmen]",
+          "mnemonic_example": "Bilasiz;",
+          "translation": "You know."
+        },
+        {
+          "order": 3,
+          "english": "Teacher",
+          "uzbek": "O'qituvchi",
+          "pronunciation": "[tiche]",
+          "mnemonic_example": "O'qituvchi sizga majburlab koniyak ichiryapti;",
+          "translation": "The teacher is forcing you to drink cognac."
+        },
+        {
+          "order": 4,
+          "english": "Driver",
+          "uzbek": "Haydovchi",
+          "pronunciation": "[drayve]",
+          "mnemonic_example": "Tasavvur qiling, mashinadagi haydovchi birdaniga drakonga aylanib qoldi. Xo'sh, taassurotlar qanday?",
+          "translation": "Imagine the driver in the car suddenly turned into a dragon. So, what are your impressions?"
+        },
+        {
+          "order": 5,
+          "english": "Worker",
+          "uzbek": "Ishchi",
+          "pronunciation": "[uorke]",
+          "mnemonic_example": "Orkestrdagi ishchini ishdan bo'shatishdi, keyin yana qaytib olishdi, keyin yana bo'shatishdi;",
+          "translation": "The worker in the orchestra was fired, then rehired, then fired again."
+        },
+        {
+          "order": 6,
+          "english": "Engineer",
+          "uzbek": "Muhandis",
+          "pronunciation": "[injiniye]",
+          "mnemonic_example": "Injenerga o'xshatsa bo'ladi;",
+          "translation": "It can be likened to an engineer."
+        },
+        {
+          "order": 7,
+          "english": "Doctor",
+          "uzbek": "Shifokor",
+          "pronunciation": "[dokto]",
+          "mnemonic_example": "Doktor so'ziga o'xshatamiz;",
+          "translation": "We liken it to the word 'doctor.'"
+        },
+        {
+          "order": 8,
+          "english": "Lawyer",
+          "uzbek": "Advokat",
+          "pronunciation": "[louye]",
+          "mnemonic_example": "Advokat ishini eplay olmaganidan so'ng, loyga qorishtirishdi;",
+          "translation": "After the lawyer couldn’t handle the case, they got mixed up in mud."
+        },
+        {
+          "order": 9,
+          "english": "Journalist",
+          "uzbek": "Jurnalist",
+          "pronunciation": "[jonalist]",
+          "mnemonic_example": "Bir xil so'zlar;",
+          "translation": "The same words."
+        },
+        {
+          "order": 10,
+          "english": "Nurse",
+          "uzbek": "Hamshira",
+          "pronunciation": "[nyurs]",
+          "mnemonic_example": "Hamshira ishini zo'r bajargach, Nyu-Yorkka erga tegib ketdi;",
+          "translation": "After the nurse did her job excellently, she got married and moved to New York."
+        },
+        {
+          "order": 11,
+          "english": "Shop assistant",
+          "uzbek": "Sotuvchi",
+          "pronunciation": "[shop essistent]",
+          "mnemonic_example": "Sotuvchi shopir do'stini o'rniga assistent qilib qoldirdi. Chunki unga farqi yo'q;",
+          "translation": "The shop assistant made his driver friend an assistant instead. Because it didn’t matter to him."
+        },
+        {
+          "order": 12,
+          "english": "Waiter",
+          "uzbek": "Ofisiant",
+          "pronunciation": "[ueyte]",
+          "mnemonic_example": "Ofisiant vazirga yaxshi xizmat ko'rsatgani uchun, vazir uni ishdan haydatib yubordi;",
+          "translation": "Because the waiter provided good service to the minister, the minister fired him."
+        },
+        {
+          "order": 13,
+          "english": "Accountant",
+          "uzbek": "Buxgalter",
+          "pronunciation": "[ekkauntent]",
+          "mnemonic_example": "Tasavvur qiling, buxgalter xolangiz dalada hujjatlarini ekib yuribdi;",
+          "translation": "Imagine your accountant aunt is planting her documents in the field."
+        },
+        {
+          "order": 14,
+          "english": "Artist",
+          "uzbek": "Rassom",
+          "pronunciation": "[atist]",
+          "mnemonic_example": "Barcha rassomlar ishini artistlikdan boshlagan;",
+          "translation": "All painters started their work as artists."
+        },
+        {
+          "order": 15,
+          "english": "Musician",
+          "uzbek": "Musiqachi",
+          "pronunciation": "[myuzishin]",
+          "mnemonic_example": "O'xshash so'zlar;",
+          "translation": "Similar words."
+        },
+        {
+          "order": 16,
+          "english": "Actor",
+          "uzbek": "Aktor",
+          "pronunciation": "[ekto]",
+          "mnemonic_example": "O'xshash so'zlar;",
+          "translation": "Similar words."
+        },
+        {
+          "order": 17,
+          "english": "Student",
+          "uzbek": "Talaba",
+          "pronunciation": "[styudent]",
+          "mnemonic_example": "Studentga o'xshatish;",
+          "translation": "Likened to a student."
+        },
+        {
+          "order": 18,
+          "english": "Pupil",
+          "uzbek": "O'quvchi",
+          "pronunciation": "[pyupil]",
+          "mnemonic_example": "O'quvchilar pyureni to'kib-sochib tashlashdi;",
+          "translation": "The pupils spilled and scattered the puree."
+        }
+      ]
+    },
+    {
+      "slug": "household",
+      "title": "Uy jihozlari",
+      "cover_image_path": "/picture/home appliance.png",
+      "order": 4,
+      "cards": [
+        {
+          "order": 1,
+          "english": "Grass",
+          "uzbek": "O't-o'lan",
+          "pronunciation": "[grasss]",
+          "mnemonic_example": "O't-o'lanlar ustidan kerosin quyib endi yoqmoqchi edingiz, ular jonga kirib presslarini chiqarib sizni qo'rqitishdi. Siz esa qo'rqaningizdan krest qilib cho'qinib yubordingiz. Daxshat!!!!",
+          "translation": "You poured kerosene on the weeds and were about to set them on fire, but they came to life, pulled out their guns, and scared you. Out of fear, you made a cross and drowned. Horrible!!!!"
+        },
+        {
+          "order": 2,
+          "english": "Flower",
+          "uzbek": "Gul",
+          "pronunciation": "[flaue]",
+          "mnemonic_example": "Tasavvur qiling momoqaymoq gulini puflayverib dunyoni oppoq momaqaymoq parchalariga to'ldirib yubordingiz;",
+          "translation": "Imagine you kept blowing on a dandelion flower and filled the world with white dandelion fluff pieces."
+        },
+        {
+          "order": 3,
+          "english": "Leaf",
+          "uzbek": "Barg",
+          "pronunciation": "[lif]",
+          "mnemonic_example": "Oltinchi qavatga chiqish uchun lift yoniga kelib endi eshikni ochgan edingiz ustingizga bir uyum barglar to'kildi;",
+          "translation": "You came to the elevator to go up to the sixth floor, and as soon as you opened the door, a pile of leaves fell on you."
+        },
+        {
+          "order": 4,
+          "english": "Flat",
+          "uzbek": "Kvartira",
+          "pronunciation": "[flet]",
+          "mnemonic_example": "O'z kvartirangizda flesh ichib o'tirganingizni tasavvur qiling;",
+          "translation": "Imagine sitting in your apartment drinking a flash."
+        },
+        {
+          "order": 5,
+          "english": "Room",
+          "uzbek": "Xona",
+          "pronunciation": "[rum]",
+          "mnemonic_example": "Xonangizning hamma yeri romdan qurilganini o'ylang. Yoki xona to'la ro'mol turibdi;",
+          "translation": "Imagine your room is entirely made of rum. Or the room is full of handkerchiefs."
+        },
+        {
+          "order": 6,
+          "english": "Living room",
+          "uzbek": "Mehmonxona",
+          "pronunciation": "[living rum]",
+          "mnemonic_example": "Tasavvur qiling, mehmonxonadagi barcha turistlar suving qum ekan deb, mehmonxona boshlig'ini sudga berishdi;",
+          "translation": "Imagine all the tourists in the living room thought the chewing gum was sand and sued the living room manager."
+        },
+        {
+          "order": 7,
+          "english": "Bedroom",
+          "uzbek": "Yotoqxona",
+          "pronunciation": "[bedrum]",
+          "mnemonic_example": "Tasavvur qiling yotoqxonada betingizni ro'molcha bilan yopib, dam olyapsiz;",
+          "translation": "Imagine resting in your bedroom with your face covered by a small handkerchief."
+        },
+        {
+          "order": 8,
+          "english": "Bathroom",
+          "uzbek": "Vannaxona",
+          "pronunciation": "[bas rum]",
+          "mnemonic_example": "Vannaxonadagi gazni ro'mol bilan urib o'chirib qo'ydingiz;",
+          "translation": "You put out the gas in the bathroom by hitting it with a handkerchief."
+        },
+        {
+          "order": 9,
+          "english": "Shower",
+          "uzbek": "Dush",
+          "pronunciation": "[shaue:]",
+          "mnemonic_example": "Tasavvur qiling dushda shourma bilan shovlani qo'shib cho'milyapsiz;",
+          "translation": "Imagine you’re showering with shawarma and a shovel."
+        },
+        {
+          "order": 10,
+          "english": "Toilet",
+          "uzbek": "Xojatxona",
+          "pronunciation": "[toilet]",
+          "mnemonic_example": "Tualet so'ziga o'xshating: xojatxona;",
+          "translation": "Make it similar to the word 'toilet': xojatxona."
+        },
+        {
+          "order": 11,
+          "english": "Kitchen",
+          "uzbek": "Oshxona",
+          "pronunciation": "[kichen]",
+          "mnemonic_example": "Tasavvur qiling dunyodagi eng kichkina oshxona faqat siznikida bor;",
+          "translation": "Imagine the smallest kitchen in the world is only in your house."
+        },
+        {
+          "order": 12,
+          "english": "Hall",
+          "uzbek": "Koridor, zal",
+          "pronunciation": "[hol]",
+          "mnemonic_example": "Hamma yeringizga hol toshib ketdi. Yoki ho'l koridorni tasavvur qiling;",
+          "translation": "Your whole body is covered in moles. Or imagine a wet corridor."
+        },
+        {
+          "order": 13,
+          "english": "Balcony",
+          "uzbek": "Balkon",
+          "pronunciation": "[belkoni]",
+          "mnemonic_example": "Balkoningizga butun mahalla chiqib olib, beliga bonka qo'yyapti;",
+          "translation": "The whole neighborhood came out to your balcony and started putting jars on their waists."
+        },
+        {
+          "order": 14,
+          "english": "Floor",
+          "uzbek": "Pol, qavat",
+          "pronunciation": "[flooo]",
+          "mnemonic_example": "Flour - un, pol, qavat to'la un sochilib yotibdi;",
+          "translation": "Flour - the floor, the whole floor is covered with scattered flour."
+        },
+        {
+          "order": 15,
+          "english": "Ceiling",
+          "uzbek": "Shift",
+          "pronunciation": "[siling]",
+          "mnemonic_example": "Shitingiz asabiylashib qimirlab ketdi, bir kishi sekin keling jim silang tinchlanadi, deyapti!!",
+          "translation": "Your ceiling got nervous and started moving; someone says, 'Come slowly, stay quiet, and it will calm down!!'"
+        },
+        {
+          "order": 16,
+          "english": "Wall",
+          "uzbek": "Devor",
+          "pronunciation": "[uol]",
+          "mnemonic_example": "Tasavvur qiling, ishkalchi bo'lganingiz uchun otangiz senga hatto devor ham uvvol deb koyishyapti;",
+          "translation": "Imagine, because you’re a slacker, your father scolds you, saying even the wall is crumbling."
+        },
+        {
+          "order": 17,
+          "english": "Stairs",
+          "uzbek": "Zina",
+          "pronunciation": "[steis]",
+          "mnemonic_example": "Ruslar askarlarni agar ayb ish qilsa zimga (стройся) qilib qo'yar ekan;",
+          "translation": "The Russians would make soldiers line up on the stairs if they did something wrong."
+        },
+        {
+          "order": 18,
+          "english": "Door",
+          "uzbek": "Eshik",
+          "pronunciation": "[dooor]",
+          "mnemonic_example": "Tasavvur qiling, eshikni tozalab yuvib, siqib dorga osib;",
+          "translation": "Imagine cleaning the door, washing it, squeezing it, and hanging it on a rope."
+        },
+        {
+          "order": 19,
+          "english": "Window",
+          "uzbek": "Oyna",
+          "pronunciation": "[uindou]",
+          "mnemonic_example": "Tasavvur qiling, oynangizda kompyuterdagi windows yozuvi chiqib qoldi;",
+          "translation": "Imagine the 'Windows' logo from a computer appeared on your window."
+        },
+        {
+          "order": 20,
+          "english": "Windowsill",
+          "uzbek": "Dokcha",
+          "pronunciation": "[uindousil]",
+          "mnemonic_example": "Bir kishi uyingda sillasi qurigan odamlar dokchadagi narsalarga tegyapti dedi;",
+          "translation": "Someone said that people with dried-up armpits in your house are touching things on the windowsill."
+        },
+        {
+          "order": 21,
+          "english": "Curtain",
+          "uzbek": "Parda",
+          "pronunciation": "[kyurtein]",
+          "mnemonic_example": "Tasavvur qiling, kurtkangizni qirqib, pardaga ulab qo'ydingiz;",
+          "translation": "Imagine you cut up your jacket and attached it to the curtain."
+        },
+        {
+          "order": 22,
+          "english": "Switch",
+          "uzbek": "Chiroq",
+          "pronunciation": "[suitch]",
+          "mnemonic_example": "Tasavvur qiling, chiroq lampalarini svecha o'rnida ishlata boshlashibdi;",
+          "translation": "Imagine the light bulbs started being used as candles."
+        },
+        {
+          "order": 23,
+          "english": "Socket",
+          "uzbek": "Rozetka",
+          "pronunciation": "[soket]",
+          "mnemonic_example": "Rozetka oldiga kelib, ishlamagani uchun rosa so'kdingiz;",
+          "translation": "You came to the socket and cursed a lot because it wasn’t working."
+        },
+        {
+          "order": 24,
+          "english": "Faucet",
+          "uzbek": "Jo'mrak",
+          "pronunciation": "[foset]",
+          "mnemonic_example": "Lasetti ro'lini jo'mrakka ulab, paket bilan o'rab qo'ydingiz;",
+          "translation": "You attached a Lacetti steering wheel to the faucet and wrapped it with a bag."
+        },
+        {
+          "order": 25,
+          "english": "Pipe",
+          "uzbek": "Truba",
+          "pronunciation": "[payp]",
+          "mnemonic_example": "Tasavvur qiling, turbaning ichiga paypoq tiqib qo'ydingiz;",
+          "translation": "Imagine you stuffed a sock inside the pipe."
+        },
+        {
+          "order": 26,
+          "english": "Chimney",
+          "uzbek": "Mo'ri",
+          "pronunciation": "[chimni]",
+          "mnemonic_example": "Bir jinni odam mo'ridan uyingizga tushib, chinnilarni o'g'irlab ketibdi;",
+          "translation": "A crazy person came down your chimney and stole the porcelain."
+        },
+        {
+          "order": 27,
+          "english": "Furniture",
+          "uzbek": "Mebel",
+          "pronunciation": "[fyorniche]",
+          "mnemonic_example": "Tasavvur qiling, yangi mebel oldingiz. Surnaychi kelib hammasini rasvo qildi;",
+          "translation": "Imagine you bought new furniture, and a trumpeter came and ruined it all."
+        },
+        {
+          "order": 28,
+          "english": "Table",
+          "uzbek": "Stol",
+          "pronunciation": "[teibl]",
+          "mnemonic_example": "Rosa tepilgan stolga tabletka berib, tuzatishyapti;",
+          "translation": "They’re giving a pill to a badly kicked table to fix it."
+        },
+        {
+          "order": 29,
+          "english": "Chair",
+          "uzbek": "Stul",
+          "pronunciation": "[cheir]",
+          "mnemonic_example": "Tasavvur qiling, chirigan stulga o'tirgan edingiz, sinib yiqildingiz;",
+          "translation": "Imagine you sat on a rotten chair, and it broke, causing you to fall."
+        },
+        {
+          "order": 30,
+          "english": "Armchair",
+          "uzbek": "Kreslo",
+          "pronunciation": "[am cheir]",
+          "mnemonic_example": "Kresloni arg'umchoqqa bog'lab qo'yib, o'yin o'ynayotganingizni tasavvur qiling;",
+          "translation": "Imagine tying the armchair to a rope and playing a game."
+        },
+        {
+          "order": 31,
+          "english": "Sofa",
+          "uzbek": "Divan",
+          "pronunciation": "[soufa]",
+          "mnemonic_example": "Sovuqda uzoq masofa oralig'idagi yerga borib, divan sotib oldingiz;",
+          "translation": "In the cold, you went to a faraway place and bought a sofa."
+        },
+        {
+          "order": 32,
+          "english": "Bed",
+          "uzbek": "Karavot",
+          "pronunciation": "[bed]",
+          "mnemonic_example": "Tasavvur qiling, tepadan karavotga qarab betingiz bilan sakradingiz;",
+          "translation": "Imagine jumping onto the bed from above with your face."
+        },
+        {
+          "order": 33,
+          "english": "Wardrobe",
+          "uzbek": "Garderob",
+          "pronunciation": "[uodrob]",
+          "mnemonic_example": "O'xshash so'zlar, deyarli;",
+          "translation": "Similar words, almost."
+        },
+        {
+          "order": 34,
+          "english": "Cabinet",
+          "uzbek": "Cabinet",
+          "pronunciation": "[kebinet]",
+          "mnemonic_example": "O'xshash so'zlar;",
+          "translation": "Similar words."
+        },
+        {
+          "order": 35,
+          "english": "Shelf",
+          "uzbek": "Polka",
+          "pronunciation": "[shelf]",
+          "mnemonic_example": "Tasavvur qiling, polkaga sharf bilan shlyapa olib kelib, qo'ydingiz;",
+          "translation": "Imagine bringing a scarf and a hat to put on the shelf."
+        },
+        {
+          "order": 36,
+          "english": "Mirror",
+          "uzbek": "Deraza",
+          "pronunciation": "[mirror]",
+          "mnemonic_example": "Terrorlar derazadan oshib chiqib xujum qilishmoqchi edi lekin adashib sig'may qolishdi;",
+          "translation": "Terrorists tried to climb through the window to attack but got stuck by mistake."
+        },
+        {
+          "order": 37,
+          "english": "Carpet",
+          "uzbek": "Gilam",
+          "pronunciation": "[karpet]",
+          "mnemonic_example": "Gilamingiz ustiga kartalar sochilib ketdi. Siz mapetda ularni terib yuribsiz;",
+          "translation": "Cards scattered all over your carpet, and you’re picking them up with a mop."
+        },
+        {
+          "order": 38,
+          "english": "Fridge",
+          "uzbek": "Muzlatgich",
+          "pronunciation": "[fridj]",
+          "mnemonic_example": "Muzlatgich ichida to'la kartoshka fri turganini o'ylang;",
+          "translation": "Imagine the fridge is full of French fries."
+        },
+        {
+          "order": 39,
+          "english": "Microwave",
+          "uzbek": "Mikroto'lqinli pech",
+          "pronunciation": "[maykroueyv]",
+          "mnemonic_example": "Mikropechda mayka ichida vafli isityapsiz;",
+          "translation": "You’re heating a waffle inside a tank top in the microwave."
+        },
+        {
+          "order": 40,
+          "english": "Oven",
+          "uzbek": "Pechka",
+          "pronunciation": "[ouen]",
+          "mnemonic_example": "Pechkada qovun pishirib yeb turganingizni o'ylang;",
+          "translation": "Imagine cooking and eating a melon in the oven."
+        },
+        {
+          "order": 41,
+          "english": "Stove",
+          "uzbek": "Oshxona plitasi",
+          "pronunciation": "[stou]",
+          "mnemonic_example": "Tasavvur qiling, auksionda oshxona plitasi ustida stol bizga sotuvga chiqarildi;",
+          "translation": "Imagine at an auction, a table was put up for sale on top of a kitchen stove."
+        },
+        {
+          "order": 42,
+          "english": "Dish",
+          "uzbek": "Idish",
+          "pronunciation": "[dish]",
+          "mnemonic_example": "Shunchaki idishlarni tasavvur qiling;",
+          "translation": "Just imagine the dishes."
+        },
+        {
+          "order": 43,
+          "english": "Cup",
+          "uzbek": "Piyola",
+          "pronunciation": "[kap]",
+          "mnemonic_example": "Dasturxonda turgan piyolaga kapalak kelib qo'nib oldi;",
+          "translation": "A butterfly landed on the cup sitting on the tablecloth."
+        },
+        {
+          "order": 44,
+          "english": "Glass",
+          "uzbek": "Stakan",
+          "pronunciation": "[glass]",
+          "mnemonic_example": "Stakanga gilos solib siqib suvini ichyapsiz;",
+          "translation": "You put cherries in a glass, squeeze them, and drink the juice."
+        },
+        {
+          "order": 45,
+          "english": "Mug",
+          "uzbek": "Krujka",
+          "pronunciation": "[mag]",
+          "mnemonic_example": "Ikkita krujkani tasavvur qiling, magnit yopishtirib qo'yib bir-biriga yopishtirdingiz;",
+          "translation": "Imagine two mugs; you stuck them together with a magnet."
+        },
+        {
+          "order": 46,
+          "english": "Plate",
+          "uzbek": "Tarelka",
+          "pronunciation": "[pleyt]",
+          "mnemonic_example": "Tasavvur qiling siz sevgan inson bergan tarelkada plitka shokolad bor;",
+          "translation": "Imagine a plate given by your loved one has a chocolate bar on it."
+        },
+        {
+          "order": 47,
+          "english": "Spoon",
+          "uzbek": "Qoshiq",
+          "pronunciation": "[spun]",
+          "mnemonic_example": "Tasavvur qiling kinodagi smurflar qoshiq supurib yurishibdi;",
+          "translation": "Imagine the Smurfs from the movie are sweeping with a spoon."
+        },
+        {
+          "order": 48,
+          "english": "Fork",
+          "uzbek": "Vilka",
+          "pronunciation": "[fork]",
+          "mnemonic_example": "Work-ish, vilkada tinmay ish qilayotganingizni tasavvur qiling;",
+          "translation": "Work - imagine tirelessly working with a fork."
+        },
+        {
+          "order": 49,
+          "english": "Knife",
+          "uzbek": "Pichoq",
+          "pronunciation": "[nayf]",
+          "mnemonic_example": "Tasavvur qiling bir odam uyiga ichib kayf bo'lib kelganidan xotini uni pichoqlab qo'ydi;",
+          "translation": "Imagine a man came home drunk, and his wife stabbed him with a knife."
+        },
+        {
+          "order": 50,
+          "english": "Saucer",
+          "uzbek": "Likopcha",
+          "pronunciation": "[souse]",
+          "mnemonic_example": "Tasavvur qiling bir Nosir ismli bola sassiq likopchada go'sht saqlar ekan;",
+          "translation": "Imagine a boy named Nosir keeps meat in a smelly saucer."
+        },
+        {
+          "order": 51,
+          "english": "Bottle",
+          "uzbek": "Butilka",
+          "pronunciation": "[botl]",
+          "mnemonic_example": "Tasavvur qiling qotil butilkani sindirib odam o'ldirmoqchi;",
+          "translation": "Imagine a killer breaking a bottle to kill someone."
+        },
+        {
+          "order": 52,
+          "english": "Napkin",
+          "uzbek": "Salfetka",
+          "pronunciation": "[nepkin]",
+          "mnemonic_example": "Tasavvur qiling restoranda bir boshqa shevada gapiruvchi odam ofisiantga salfetka 'apkin' dedi;",
+          "translation": "Imagine in a restaurant, a person speaking a different dialect told the waiter 'apkin' for napkin."
+        },
+        {
+          "order": 53,
+          "english": "Frying pan",
+          "uzbek": "Skovorodka",
+          "pronunciation": "[fraying pen]",
+          "mnemonic_example": "Tasavvur qiling skovorodkaga rang beryapsiz;",
+          "translation": "Imagine you’re painting the frying pan."
+        },
+        {
+          "order": 54,
+          "english": "Pan",
+          "uzbek": "Tova",
+          "pronunciation": "[pen]",
+          "mnemonic_example": "Tasavvur qiling tovada to'la ruchkalar turibdi;",
+          "translation": "Imagine a pan full of pens."
+        },
+        {
+          "order": 55,
+          "english": "Kettle",
+          "uzbek": "Choynak",
+          "pronunciation": "[kettl]",
+          "mnemonic_example": "Tasavvur qiling siniq choynaklaringiz, man kettim deb bittadan qochib ketdi. Nihoyat ulardan qutuldigiz;",
+          "translation": "Imagine your broken kettles saying, 'I’m outta here,' and escaping one by one. Finally, you got rid of them."
+        }
+      ]
+    },
+    {
+      "slug": "foods",
+      "title": "Ovqatlar",
+      "cover_image_path": "/picture/foods.png",
+      "order": 5,
+      "cards": [
+        {
+          "order": 1,
+          "english": "Bread",
+          "uzbek": "non",
+          "pronunciation": "bred",
+          "mnemonic_example": "Nonlar hamma joyda tugadi. Endi non yopuvchilar brend darajasiga chiqdi",
+          "translation": "Bread is out of stock everywhere. Now bakers have reached brand level"
+        },
+        {
+          "order": 2,
+          "english": "Butter",
+          "uzbek": "saryog'",
+          "pronunciation": "batte",
+          "mnemonic_example": "Kafe latteni ichiga sariyog' qo'shib ichishyapti, bu dahshat, ishtaham bo'g'ildi",
+          "translation": "They're adding butter to latte in the cafe, it's terrible, I lost my appetite"
+        },
+        {
+          "order": 3,
+          "english": "Oil",
+          "uzbek": "yog'",
+          "pronunciation": "oil",
+          "mnemonic_example": "Bir yigit butun boshli ikki litr yog'ni ichib yubordi, hamma qoil qoldi, faqat men emas",
+          "translation": "A guy drank two liters of oil, everyone was impressed, except me"
+        },
+        {
+          "order": 4,
+          "english": "Cheese",
+          "uzbek": "pishloq",
+          "pronunciation": "chiz",
+          "mnemonic_example": "Bu so'zni hamma biladi, deb hisoblayman. Sur'atga tushganda hamma chizzzzzz, deydi",
+          "translation": "Everyone knows this word. When taking a photo, everyone says cheeeese"
+        },
+        {
+          "order": 5,
+          "english": "Sausage",
+          "uzbek": "kolbasa",
+          "pronunciation": "sosij",
+          "mnemonic_example": "Fikrlab ko`ring, aziz do`stim, sosiska so`zi qaysi tildan olingan?",
+          "translation": "Think about it, my friend, which language did the word 'sosiska' come from?"
+        },
+        {
+          "order": 6,
+          "english": "Ham",
+          "uzbek": "vetchina (cho'chqa go`shti)",
+          "pronunciation": "hem",
+          "mnemonic_example": "Yangi pishirilgan vetchinani olib kelishdi, siz ham etib, barchasini yutib yubordingiz",
+          "translation": "They brought freshly cooked ham, you rushed in and ate it all"
+        },
+        {
+          "order": 7,
+          "english": "Meat",
+          "uzbek": "go`sht",
+          "pronunciation": "mit",
+          "mnemonic_example": "Bir parcha go'sht hit qo'shiqlar aytib mashhur bo'lib ketdi, sizni nazarda tutmadim!",
+          "translation": "A piece of meat became famous by singing hit songs, I didn’t mean you!"
+        },
+        {
+          "order": 8,
+          "english": "Beef",
+          "uzbek": "mol go'shti",
+          "pronunciation": "bif",
+          "mnemonic_example": "Mol go'shti juda kir bo'lib ketgan, siz Mif poroshogini solib, yuvyapsiz",
+          "translation": "The beef is so dirty you're washing it with Mif detergent"
+        },
+        {
+          "order": 9,
+          "english": "Lamb",
+          "uzbek": "qo`y go`shti",
+          "pronunciation": "lemb",
+          "mnemonic_example": "Uyda lampa qolmagan, o'rniga qo'y go'shtini ilib chiqyapsiz",
+          "translation": "There’s no lamp at home, you're hanging lamb meat instead"
+        },
+        {
+          "order": 10,
+          "english": "Chicken",
+          "uzbek": "jo`ja",
+          "pronunciation": "chikin",
+          "mnemonic_example": "Chick nomli tabakalardan yeganmisiz, ayni shu so'zni jo ja so`ziga ulab keting",
+          "translation": "Have you eaten from Chick trays? Now connect that to the word chicken"
+        },
+        {
+          "order": 11,
+          "english": "Kotlet",
+          "uzbek": "kotlet",
+          "pronunciation": "katlet",
+          "mnemonic_example": "Bu so'zlar o'xshash",
+          "translation": "These words are similar"
+        },
+        {
+          "order": 12,
+          "english": "Fish",
+          "uzbek": "baliq",
+          "pronunciation": "fish",
+          "mnemonic_example": "Baliqni yeb turgan vaqtida, biron kishini tishini sindirib oldi. Rosa og'rigan bo'lsa kerak",
+          "translation": "While eating fish, someone broke a tooth. It must have hurt a lot"
+        },
+        {
+          "order": 13,
+          "english": "Egg",
+          "uzbek": "tuxum",
+          "pronunciation": "egg",
+          "mnemonic_example": "Tasavvur qiling, dalaga chiqib olib, tuxum ekyapsiz",
+          "translation": "Imagine going to the field and planting eggs"
+        },
+        {
+          "order": 14,
+          "english": "Salad",
+          "uzbek": "salat",
+          "pronunciation": "seled",
+          "mnemonic_example": "Bu o'xshash so'z",
+          "translation": "This is a similar word"
+        },
+        {
+          "order": 15,
+          "english": "Mushroom",
+          "uzbek": "qo'ziqorin",
+          "pronunciation": "mashrum",
+          "mnemonic_example": "Qo'ziqorin jasoratlar ko'rsatib, mashhurlikka erishdi",
+          "translation": "The mushroom showed courage and became famous"
+        },
+        {
+          "order": 16,
+          "english": "Corn",
+          "uzbek": "don",
+          "pronunciation": "korn",
+          "mnemonic_example": "Qarni o'rniga donlar o'sib chiqqan",
+          "translation": "Corn growing out of someone’s belly"
+        },
+        {
+          "order": 17,
+          "english": "Porridge",
+          "uzbek": "bo'tqa",
+          "pronunciation": "porij",
+          "mnemonic_example": "Parij shahriga bo'tqa yoqqani haqida eshitdingizmi?",
+          "translation": "Have you heard that Paris likes porridge?"
+        },
+        {
+          "order": 18,
+          "english": "Soup",
+          "uzbek": "sho'rva",
+          "pronunciation": "sup",
+          "mnemonic_example": "Ruscha sup so`ziga o'xshatsak bo'ladi",
+          "translation": "We can relate this to the Russian word 'sup'"
+        },
+        {
+          "order": 19,
+          "english": "Sandwich",
+          "uzbek": "buterbrod",
+          "pronunciation": "sendvich",
+          "mnemonic_example": "Buni hamma biladi",
+          "translation": "Everyone knows this"
+        },
+        {
+          "order": 20,
+          "english": "Rice",
+          "uzbek": "guruch",
+          "pronunciation": "rays",
+          "mnemonic_example": "Sizga guruch o'rniga mayz solib berishyapti",
+          "translation": "They're giving you raisins instead of rice"
+        },
+        {
+          "order": 21,
+          "english": "Noodles",
+          "uzbek": "lapsha",
+          "pronunciation": "nudlz",
+          "mnemonic_example": "Rafael Nadal lapsha yeb o'tirganini tasavvur qiling",
+          "translation": "Imagine Rafael Nadal eating noodles"
+        },
+        {
+          "order": 22,
+          "english": "Flour",
+          "uzbek": "un",
+          "pronunciation": "flur",
+          "mnemonic_example": "Blur o'yinini un ustida o'tirib o'ynayotganingizni tasavvur qiling",
+          "translation": "Imagine playing Blur while sitting on flour"
+        },
+        {
+          "order": 23,
+          "english": "Spice",
+          "uzbek": "dorivor",
+          "pronunciation": "spays",
+          "mnemonic_example": "Velosiped spitsalarida dorivorlar ilinib turganini tasavvur qiling",
+          "translation": "Imagine medicinal herbs hanging from bicycle spokes"
+        },
+        {
+          "order": 24,
+          "english": "Pepper",
+          "uzbek": "qalampir",
+          "pronunciation": "peppe",
+          "mnemonic_example": "Mashhur futbolchi Pepe qalampir yeb, stadionga chiqyapti",
+          "translation": "Famous footballer Pepe eats pepper and enters the stadium"
+        },
+        {
+          "order": 25,
+          "english": "Salt",
+          "uzbek": "tuz",
+          "pronunciation": "solt",
+          "mnemonic_example": "Tuzga botirib boltlarni yeganmisiz?",
+          "translation": "Have you ever dipped bolts in salt and eaten them?"
+        },
+        {
+          "order": 26,
+          "english": "Onion",
+          "uzbek": "piyoz",
+          "pronunciation": "onion",
+          "mnemonic_example": "Poni ot hashak o'rniga piyoz yeyapti",
+          "translation": "The pony is eating onions instead of hay"
+        },
+        {
+          "order": 27,
+          "english": "Garlic",
+          "uzbek": "sarimsoq",
+          "pronunciation": "galik",
+          "mnemonic_example": "Karliklar sarimsoq yeb, qorin to'yg'azishmoqda",
+          "translation": "Dwarfs are eating garlic to fill their bellies"
+        },
+        {
+          "order": 28,
+          "english": "Sos",
+          "uzbek": "sous",
+          "pronunciation": "sos",
+          "mnemonic_example": "Bir xil so`zlar",
+          "translation": "Same word"
+        },
+        {
+          "order": 29,
+          "english": "Vegetables",
+          "uzbek": "sabzavotlar",
+          "pronunciation": "vejeteblz",
+          "mnemonic_example": "Vegetarianlar faqat sabzavot yeyishadi",
+          "translation": "Vegetarians only eat vegetables"
+        },
+        {
+          "order": 30,
+          "english": "Potatoes",
+          "uzbek": "kartoshka",
+          "pronunciation": "poteytoz",
+          "mnemonic_example": "Kartoshkaga tuz sepyapsiz, u terlab ketyapti",
+          "translation": "You're salting potatoes, and they're sweating"
+        },
+        {
+          "order": 31,
+          "english": "Carrot",
+          "uzbek": "sabzi",
+          "pronunciation": "kerrot",
+          "mnemonic_example": "Jim Kerri pingvinlari bilan sabzi yeb o'tirganini tasavvur qiling",
+          "translation": "Imagine Jim Carrey eating carrots with penguins"
+        },
+        {
+          "order": 32,
+          "english": "Beet",
+          "uzbek": "lavlagi",
+          "pronunciation": "bit",
+          "mnemonic_example": "Lavlagini archmoqdasiz va undan bitlar otilib chiqmoqda",
+          "translation": "You're peeling a beet and lice are jumping out"
+        },
+        {
+          "order": 33,
+          "english": "Tomato",
+          "uzbek": "pomidor",
+          "pronunciation": "tumato",
+          "mnemonic_example": "Pomidorlardan tomat tayyorlaymiz",
+          "translation": "We make tomato paste from tomatoes"
+        },
+        {
+          "order": 34,
+          "english": "Cucumber",
+          "uzbek": "bodring",
+          "pronunciation": "kyukumbe",
+          "mnemonic_example": "Bodring ichidan qush chiqib 'Kuku, Kuku' deyapti",
+          "translation": "A bird comes out of the cucumber saying 'Cuckoo, Cuckoo'"
+        },
+        {
+          "order": 35,
+          "english": "Cabbage",
+          "uzbek": "karam",
+          "pronunciation": "kebbij",
+          "mnemonic_example": "Karam kebga aylanganini tasavvur qiling",
+          "translation": "Imagine cabbage turning into a carriage"
+        },
+        {
+          "order": 36,
+          "english": "Eggplant",
+          "uzbek": "baqlajon",
+          "pronunciation": "igplant",
+          "mnemonic_example": "Paxta o'rniga baqlajon ekayotganingizni tasavvur qiling",
+          "translation": "Imagine planting eggplants instead of cotton"
+        },
+        {
+          "order": 37,
+          "english": "Nut",
+          "uzbek": "yong'oq",
+          "pronunciation": "nat",
+          "mnemonic_example": "Nuts shokoladi bilan bog'lang",
+          "translation": "Connect with Nuts chocolate"
+        },
+        {
+          "order": 38,
+          "english": "Meva",
+          "uzbek": "meva",
+          "pronunciation": "meva",
+          "mnemonic_example": "Ruscha frukt so'zi bilan bog'lang",
+          "translation": "Link it to the Russian word 'frukt'"
+        },
+        {
+          "order": 39,
+          "english": "Apple",
+          "uzbek": "olma",
+          "pronunciation": "epl",
+          "mnemonic_example": "Ayfon o'rniga olmani ishlatayotganingizni tasavvur qiling",
+          "translation": "Imagine using an apple instead of an iPhone"
+        },
+        {
+          "order": 40,
+          "english": "Pear",
+          "uzbek": "nok",
+          "pronunciation": "piye",
+          "mnemonic_example": "Piyolani ichiga nok solib qo`ygansiz",
+          "translation": "You put a pear inside a teacup"
+        },
+        {
+          "order": 41,
+          "english": "Banana",
+          "uzbek": "banan",
+          "pronunciation": "benana",
+          "mnemonic_example": "'A'ni olib, tamom",
+          "translation": "Remove the 'A' and you’re done"
+        },
+        {
+          "order": 42,
+          "english": "Berry",
+          "uzbek": "mayda mevalar",
+          "pronunciation": "berri",
+          "mnemonic_example": "Barra-barra, hil-hil pishgan mayda mevalarni yeb o'tirganingizni tasavvur qiling",
+          "translation": "Imagine eating juicy, ripe berries"
+        },
+        {
+          "order": 43,
+          "english": "Strawberry",
+          "uzbek": "qulupnay",
+          "pronunciation": "strouberri",
+          "mnemonic_example": "Stroykada barra qulupnaylarni yeb quvnashyapti",
+          "translation": "They're happily eating strawberries at a construction site"
+        },
+        {
+          "order": 44,
+          "english": "Raspberry",
+          "uzbek": "malina",
+          "pronunciation": "raspberri",
+          "mnemonic_example": "Katta rasmda barra pishgan malina turibdi",
+          "translation": "A large picture shows ripe raspberries"
+        },
+        {
+          "order": 45,
+          "english": "Cherry",
+          "uzbek": "olcha",
+          "pronunciation": "cherri",
+          "mnemonic_example": "Charos olchaga aylanib qolganini tasavvur qiling",
+          "translation": "Imagine Charos turning into a cherry"
+        },
+        {
+          "order": 46,
+          "english": "Plum",
+          "uzbek": "olxo`ri",
+          "pronunciation": "plam",
+          "mnemonic_example": "Stomatolog tishingizga olxo'ri o'rnatmoqda",
+          "translation": "The dentist is putting a plum in your tooth"
+        }
+      ]
+    },
+    {
+      "slug": "times",
+      "title": "Vaqtlar",
+      "cover_image_path": "/picture/time.png",
+      "order": 6,
+      "cards": [
+        {
+          "order": 1,
+          "english": "Time",
+          "uzbek": "vaqt",
+          "pronunciation": "taym",
+          "mnemonic_example": "Siz ish bilan shu darajada band bo‘ldingizki, New York Times gazetasini o‘qishga ham vaqt topa olmadingiz.",
+          "translation": "Siz ish bilan band bo‘lib ketganingiz uchun New York Times gazetasini o‘qishga ham vaqtingiz yo‘q."
+        },
+        {
+          "order": 2,
+          "english": "Second",
+          "uzbek": "soniya",
+          "pronunciation": "seknd",
+          "mnemonic_example": "Bu voqea bir soniya ichida sodir bo‘ldi.",
+          "translation": "This event happened in a second."
+        },
+        {
+          "order": 3,
+          "english": "Minute",
+          "uzbek": "daqiqa",
+          "pronunciation": "minit",
+          "mnemonic_example": "Kutib o‘tirganimga 10 daqiqa bo‘ldi.",
+          "translation": "I have been waiting for 10 minutes."
+        },
+        {
+          "order": 4,
+          "english": "Hour",
+          "uzbek": "soat",
+          "pronunciation": "aur",
+          "mnemonic_example": "Mashg‘ulot ikki soat davom etdi.",
+          "translation": "The training lasted for two hours."
+        },
+        {
+          "order": 5,
+          "english": "Day",
+          "uzbek": "kun",
+          "pronunciation": "dey",
+          "mnemonic_example": "Bugun juda chiroyli kun bo‘ldi.",
+          "translation": "Today was a very beautiful day."
+        },
+        {
+          "order": 6,
+          "english": "Week",
+          "uzbek": "hafta",
+          "pronunciation": "uik",
+          "mnemonic_example": "Bir haftadan beri u bilan gaplashmadim.",
+          "translation": "I haven’t spoken to him for a week."
+        },
+        {
+          "order": 7,
+          "english": "Month",
+          "uzbek": "oy",
+          "pronunciation": "mans",
+          "mnemonic_example": "Bir oy ichida yangi til o‘rgana boshladim.",
+          "translation": "In one month, I started learning a new language."
+        },
+        {
+          "order": 8,
+          "english": "Year",
+          "uzbek": "yil",
+          "pronunciation": "yir",
+          "mnemonic_example": "Bu yil ko‘p yutuqlarga erishdik.",
+          "translation": "We achieved a lot this year."
+        },
+        {
+          "order": 9,
+          "english": "Yesterday",
+          "uzbek": "kecha",
+          "pronunciation": "yestudey",
+          "mnemonic_example": "Men uni kecha ko‘rdim.",
+          "translation": "I saw him yesterday."
+        },
+        {
+          "order": 10,
+          "english": "The day before yesterday",
+          "uzbek": "kechadan oldingi kun",
+          "pronunciation": "ze dey bifor yestudey",
+          "mnemonic_example": "Kechadan oldingi kuni biz sayohatga chiqdik.",
+          "translation": "The day before yesterday we went on a trip."
+        },
+        {
+          "order": 11,
+          "english": "Today",
+          "uzbek": "bugun",
+          "pronunciation": "tudey",
+          "mnemonic_example": "Bugun imtihonim bor.",
+          "translation": "I have an exam today."
+        },
+        {
+          "order": 12,
+          "english": "Tonight",
+          "uzbek": "bugun tunda",
+          "pronunciation": "tunoyt",
+          "mnemonic_example": "Bugun tunda mehmonlar keladi.",
+          "translation": "Guests will come tonight."
+        },
+        {
+          "order": 13,
+          "english": "Tomorrow",
+          "uzbek": "ertaga",
+          "pronunciation": "tumorou",
+          "mnemonic_example": "Ertaga uchrashamiz.",
+          "translation": "We will meet tomorrow."
+        },
+        {
+          "order": 14,
+          "english": "The day after tomorrow",
+          "uzbek": "ertadan keyin",
+          "pronunciation": "ze dey after tumorou",
+          "mnemonic_example": "Ertadan keyin safarga chiqamiz.",
+          "translation": "The day after tomorrow we will go on a trip."
+        },
+        {
+          "order": 15,
+          "english": "Morning",
+          "uzbek": "tong",
+          "pronunciation": "morning",
+          "mnemonic_example": "Tongda havo salqin bo‘ladi.",
+          "translation": "In the morning the weather is cool."
+        },
+        {
+          "order": 16,
+          "english": "Afternoon",
+          "uzbek": "tushlik vaqti",
+          "pronunciation": "aftenun",
+          "mnemonic_example": "Tushlik vaqti do‘konga bordim.",
+          "translation": "I went to the store in the afternoon."
+        },
+        {
+          "order": 17,
+          "english": "Evening",
+          "uzbek": "kechqurun",
+          "pronunciation": "ivning",
+          "mnemonic_example": "Kechqurun sayr qildik.",
+          "translation": "We went for a walk in the evening."
+        },
+        {
+          "order": 18,
+          "english": "Night",
+          "uzbek": "tun",
+          "pronunciation": "nayt",
+          "mnemonic_example": "Tun qorong‘i va sokin edi.",
+          "translation": "The night was dark and quiet."
+        },
+        {
+          "order": 19,
+          "english": "Monday",
+          "uzbek": "dushanba",
+          "pronunciation": "mandey",
+          "mnemonic_example": "Dushanba kuni ish boshlaymiz.",
+          "translation": "We start work on Monday."
+        },
+        {
+          "order": 20,
+          "english": "Tuesday",
+          "uzbek": "seshanba",
+          "pronunciation": "tiuzdey",
+          "mnemonic_example": "Seshanba kuni mashg‘ulot bo‘ladi.",
+          "translation": "There will be training on Tuesday."
+        },
+        {
+          "order": 21,
+          "english": "Wednesday",
+          "uzbek": "chorshanba",
+          "pronunciation": "uenzdey",
+          "mnemonic_example": "Chorshanba kuni uchrashuv rejalashtirilgan.",
+          "translation": "The meeting is scheduled for Wednesday."
+        },
+        {
+          "order": 22,
+          "english": "Thursday",
+          "uzbek": "payshanba",
+          "pronunciation": "thörzdey",
+          "mnemonic_example": "Payshanba kuni do‘stlarim keladi.",
+          "translation": "My friends are coming on Thursday."
+        },
+        {
+          "order": 23,
+          "english": "Friday",
+          "uzbek": "juma",
+          "pronunciation": "fraydey",
+          "mnemonic_example": "Juma kuni bayram bo‘ladi.",
+          "translation": "There will be a holiday on Friday."
+        },
+        {
+          "order": 24,
+          "english": "Saturday",
+          "uzbek": "shanba",
+          "pronunciation": "sæterdey",
+          "mnemonic_example": "Shanba kuni futbol o‘ynaymiz.",
+          "translation": "We will play football on Saturday."
+        },
+        {
+          "order": 25,
+          "english": "Sunday",
+          "uzbek": "yakshanba",
+          "pronunciation": "sandei",
+          "mnemonic_example": "Yakshanba kuni dam olamiz.",
+          "translation": "We rest on Sunday."
+        },
+        {
+          "order": 26,
+          "english": "January",
+          "uzbek": "yanvar",
+          "pronunciation": "jenueri",
+          "mnemonic_example": "Yanvar oyida havo sovuq bo‘ladi.",
+          "translation": "The weather is cold in January."
+        },
+        {
+          "order": 27,
+          "english": "February",
+          "uzbek": "fevral",
+          "pronunciation": "februeri",
+          "mnemonic_example": "Fevral eng qisqa oy hisoblanadi.",
+          "translation": "February is the shortest month."
+        },
+        {
+          "order": 28,
+          "english": "March",
+          "uzbek": "mart",
+          "pronunciation": "march",
+          "mnemonic_example": "Mart oyida gullar ochila boshlaydi.",
+          "translation": "In March, flowers start blooming."
+        },
+        {
+          "order": 29,
+          "english": "April",
+          "uzbek": "aprel",
+          "pronunciation": "eypril",
+          "mnemonic_example": "Aprel oyida yomg‘irlar ko‘p yog‘adi.",
+          "translation": "It rains a lot in April."
+        },
+        {
+          "order": 30,
+          "english": "May",
+          "uzbek": "may",
+          "pronunciation": "mey",
+          "mnemonic_example": "May oyida daraxtlar yam-yashil bo‘ladi.",
+          "translation": "Trees are green in May."
+        },
+        {
+          "order": 31,
+          "english": "June",
+          "uzbek": "iyun",
+          "pronunciation": "june",
+          "mnemonic_example": "Iyun oyida yozgi ta’til boshlanadi.",
+          "translation": "Summer vacation starts in June."
+        },
+        {
+          "order": 32,
+          "english": "July",
+          "uzbek": "iyul",
+          "pronunciation": "julai",
+          "mnemonic_example": "Iyul eng issiq oy hisoblanadi.",
+          "translation": "July is considered the hottest month."
+        },
+        {
+          "order": 33,
+          "english": "August",
+          "uzbek": "avgust",
+          "pronunciation": "ogest",
+          "mnemonic_example": "Avgust oyida hosil yig‘im-terimi boshlanadi.",
+          "translation": "Harvest begins in August."
+        },
+        {
+          "order": 34,
+          "english": "September",
+          "uzbek": "sentabr",
+          "pronunciation": "september",
+          "mnemonic_example": "Sentabrda maktablar ochiladi.",
+          "translation": "Schools open in September."
+        },
+        {
+          "order": 35,
+          "english": "October",
+          "uzbek": "oktabr",
+          "pronunciation": "oktober",
+          "mnemonic_example": "Oktabrda barglar sarg‘ayadi.",
+          "translation": "Leaves turn yellow in October."
+        },
+        {
+          "order": 36,
+          "english": "November",
+          "uzbek": "noyabr",
+          "pronunciation": "november",
+          "mnemonic_example": "Noyabrda ob-havo soviy boshlaydi.",
+          "translation": "The weather starts to get cold in November."
+        },
+        {
+          "order": 37,
+          "english": "December",
+          "uzbek": "dekabr",
+          "pronunciation": "disember",
+          "mnemonic_example": "Dekabrda Yangi yil bayrami nishonlanadi.",
+          "translation": "New Year is celebrated in December."
+        },
+        {
+          "order": 38,
+          "english": "Season",
+          "uzbek": "fasl",
+          "pronunciation": "sizn",
+          "mnemonic_example": "O‘zbekistonda to‘rt fasl mavjud.",
+          "translation": "There are four seasons in Uzbekistan."
+        },
+        {
+          "order": 39,
+          "english": "Spring",
+          "uzbek": "bahor",
+          "pronunciation": "spring",
+          "mnemonic_example": "Bahorda gullar ochiladi.",
+          "translation": "Flowers bloom in spring."
+        },
+        {
+          "order": 40,
+          "english": "Summer",
+          "uzbek": "yoz",
+          "pronunciation": "sammer",
+          "mnemonic_example": "Yozda havo juda issiq bo‘ladi.",
+          "translation": "The weather is very hot in summer."
+        },
+        {
+          "order": 41,
+          "english": "Autumn",
+          "uzbek": "kuz",
+          "pronunciation": "otem",
+          "mnemonic_example": "Kuzda barglar to‘kiladi.",
+          "translation": "Leaves fall in autumn."
+        },
+        {
+          "order": 42,
+          "english": "Winter",
+          "uzbek": "qish",
+          "pronunciation": "winter",
+          "mnemonic_example": "Qishda qor yog‘adi.",
+          "translation": "It snows in winter."
+        }
+      ]
+    },
+    {
+      "slug": "elementary",
+      "title": "Elementary so'zlar",
+      "cover_image_path": "/picture/elementry words.png",
+      "order": 7,
+      "cards": [
+        {
+          "order": 1,
+          "english": "Garbage",
+          "uzbek": "axlat",
+          "pronunciation": "gabij",
+          "mnemonic_example": "Imagine people throwing garbage everywhere after drinking at a party.",
+          "translation": "Tasawur qiling gap ichib olib odamlar barcha yerni axlatxona qilib yuborishdi."
+        },
+        {
+          "order": 2,
+          "english": "Waste",
+          "uzbek": "qoldiq",
+          "pronunciation": "ueyst",
+          "mnemonic_example": "Imagine a beehive filled up with waste.",
+          "translation": "Tasawur qiling asalari uyasi qoldiqlarga to‘lib ketgan."
+        },
+        {
+          "order": 3,
+          "english": "Stone",
+          "uzbek": "tosh",
+          "pronunciation": "stoun",
+          "mnemonic_example": "Imagine pistons glued to a stone.",
+          "translation": "Tasawur qiling toshga pistonlar yopishtirilgan."
+        },
+        {
+          "order": 4,
+          "english": "Agree",
+          "uzbek": "rozi bo‘lmoq",
+          "pronunciation": "egri",
+          "mnemonic_example": "Imagine someone offering you crooked deals and you agree immediately.",
+          "translation": "Tasawur qiling sizga egri ishlar taklif qilindi va siz rozi bo‘ldingiz."
+        },
+        {
+          "order": 5,
+          "english": "Allow",
+          "uzbek": "ruxsat bermoq",
+          "pronunciation": "ellou",
+          "mnemonic_example": "Imagine a big announcement that says everything is allowed.",
+          "translation": "Tasawur qiling katta e’lon yopishtirilib, barcha narsaga ruxsat berilgani haqida buyruq bor."
+        },
+        {
+          "order": 6,
+          "english": "Be",
+          "uzbek": "bo‘lmoq",
+          "pronunciation": "bi",
+          "mnemonic_example": "Imagine small Beatles trying to be someone.",
+          "translation": "Tasawur qiling kichik bitlar kimdir bo‘lish uchun harakat qilishmoqda."
+        },
+        {
+          "order": 7,
+          "english": "Become",
+          "uzbek": "aylanmoq",
+          "pronunciation": "bikam",
+          "mnemonic_example": "Imagine your cousin Bekam turning into a huge bacon.",
+          "translation": "Tasawur qiling mening bekam katta bekonga aylana qoldi."
+        },
+        {
+          "order": 8,
+          "english": "Begin",
+          "uzbek": "boshlamoq",
+          "pronunciation": "bigin",
+          "mnemonic_example": "Imagine women beginning to walk around in bikinis.",
+          "translation": "Tasawur qiling ayollar bikini kiyib yurishni boshlashdi."
+        },
+        {
+          "order": 9,
+          "english": "Break",
+          "uzbek": "sindirmoq",
+          "pronunciation": "breyk",
+          "mnemonic_example": "Imagine breaking defective phones.",
+          "translation": "Tasawur qiling brak telefonlarni sindiryapsiz."
+        },
+        {
+          "order": 10,
+          "english": "Bring",
+          "uzbek": "olib kelmoq",
+          "pronunciation": "bring",
+          "mnemonic_example": "Imagine you were supposed to bring bronze but didn’t.",
+          "translation": "Tasawur qiling siz bronza olib kelishingiz kerak edi, lekin olib kelmadingiz."
+        },
+        {
+          "order": 11,
+          "english": "Buy",
+          "uzbek": "sotib olmoq",
+          "pronunciation": "bay",
+          "mnemonic_example": "Imagine rich men trying to buy everything.",
+          "translation": "Tasawur qiling boylar hamma narsani sotib olishga harakat qilmoqda."
+        },
+        {
+          "order": 12,
+          "english": "Call",
+          "uzbek": "qo‘ng‘iroq qilmoq",
+          "pronunciation": "kol",
+          "mnemonic_example": "Imagine a bald girl calling you.",
+          "translation": "Tasawur qiling kal qiz sizga qo‘ng‘iroq qilyapti."
+        },
+        {
+          "order": 13,
+          "english": "Can",
+          "uzbek": "qo‘lidan kelmoq",
+          "pronunciation": "ken",
+          "mnemonic_example": "Imagine being challenged to build a boat to prove you can do it.",
+          "translation": "Tasawur qiling sizga kema yasash qo‘lingizdan keladimi deb shart qo‘yishdi."
+        },
+        {
+          "order": 14,
+          "english": "Change",
+          "uzbek": "o‘zgartirmoq",
+          "pronunciation": "cheynj",
+          "mnemonic_example": "Imagine changing the rhythm of how you chew food.",
+          "translation": "Tasawur qiling ovqat chaynash ritmingizni o‘zgartirdingiz."
+        },
+        {
+          "order": 15,
+          "english": "Close",
+          "uzbek": "yopmoq",
+          "pronunciation": "klouz",
+          "mnemonic_example": "Imagine Santa Claus leaving gifts but forgetting to close the door.",
+          "translation": "Tasawur qiling Santa Klaus eshikni yopmasdan sovg‘a tashlab ketdi."
+        },
+        {
+          "order": 16,
+          "english": "Come",
+          "uzbek": "kelmoq",
+          "pronunciation": "kam",
+          "mnemonic_example": "Imagine you organize a party but very few people come.",
+          "translation": "Tasawur qiling siz bazm uyushtirdingiz, lekin juda kam odam keldi."
+        },
+        {
+          "order": 17,
+          "english": "Cook",
+          "uzbek": "pishirmoq",
+          "pronunciation": "kuk",
+          "mnemonic_example": "Imagine cooking only green vegetables.",
+          "translation": "Tasawur qiling siz ko‘katlarni pishiryapsiz."
+        },
+        {
+          "order": 18,
+          "english": "Cut",
+          "uzbek": "kesmoq",
+          "pronunciation": "kat",
+          "mnemonic_example": "Imagine cutting threads and turning them into pigeons.",
+          "translation": "Tasawur qiling xatlar kesib kabutar qilib uchiryapsiz."
+        },
+        {
+          "order": 19,
+          "english": "Do",
+          "uzbek": "qilmoq",
+          "pronunciation": "du",
+          "mnemonic_example": "Imagine your friend doing many good things for you while you do nothing.",
+          "translation": "Tasawur qiling do‘stingiz siz uchun ko‘p yaxshiliklar qildi, siz esa hech narsa qilmadingiz."
+        },
+        {
+          "order": 20,
+          "english": "Fall",
+          "uzbek": "yiqilmoq",
+          "pronunciation": "fol",
+          "mnemonic_example": "Imagine a white apple falling onto the floor after being bitten.",
+          "translation": "Tasawur qiling oppoq olma polga yiqildi."
+        },
+        {
+          "order": 21,
+          "english": "Find",
+          "uzbek": "topmoq",
+          "pronunciation": "faind",
+          "mnemonic_example": "Imagine your boss hiding things and you trying to find them.",
+          "translation": "Tasawur qiling rahbar narsalarni yashirib tashladi, siz esa topmoqchisiz."
+        },
+        {
+          "order": 22,
+          "english": "Fly",
+          "uzbek": "uchmoq",
+          "pronunciation": "flay",
+          "mnemonic_example": "Imagine dreaming of flying into the skies.",
+          "translation": "Tasawur qiling falaklarga uchishni orzu qilasiz."
+        },
+        {
+          "order": 23,
+          "english": "Follow",
+          "uzbek": "ergashmoq",
+          "pronunciation": "folou",
+          "mnemonic_example": "Imagine saying 'palov' and all your friends start following you.",
+          "translation": "Tasawur qiling palov desangiz barcha do‘stlaringiz sizga ergashib kelmoqda."
+        },
+        {
+          "order": 24,
+          "english": "Get",
+          "uzbek": "olmoq",
+          "pronunciation": "get",
+          "mnemonic_example": "Imagine getting only harmful information from the internet.",
+          "translation": "Tasawur qiling internetdan faqat zararli ma’lumotlar olyapsiz."
+        },
+        {
+          "order": 25,
+          "english": "Have",
+          "uzbek": "ega bo‘lmoq",
+          "pronunciation": "hev",
+          "mnemonic_example": "Imagine having something but still feeling unsatisfied.",
+          "translation": "Tasawur qiling nimagadir ega bo‘ldingiz, lekin xafa bo‘lib turibsiz."
+        },
+        {
+          "order": 26,
+          "english": "Hold",
+          "uzbek": "ushlamoq",
+          "pronunciation": "hould",
+          "mnemonic_example": "Imagine holding some cards but looking for a screwdriver.",
+          "translation": "Tasawur qiling kartalarni ushlab olib otvyorka qidiryapsiz."
+        },
+        {
+          "order": 27,
+          "english": "Know",
+          "uzbek": "bilmoq",
+          "pronunciation": "nou",
+          "mnemonic_example": "Imagine discovering who your enemy really is.",
+          "translation": "Tasawur qiling siz yovingiz kimligini bildingiz."
+        },
+        {
+          "order": 28,
+          "english": "Leave",
+          "uzbek": "qoldirib ketmoq",
+          "pronunciation": "liv",
+          "mnemonic_example": "Imagine drinking half a beer and leaving the rest on the road.",
+          "translation": "Tasawur qiling piva ichib qolganini yo‘lda qoldirib ketdingiz."
+        },
+        {
+          "order": 29,
+          "english": "Make",
+          "uzbek": "qilmoq",
+          "pronunciation": "meyk",
+          "mnemonic_example": "Imagine Mike Tyson making different things.",
+          "translation": "Tasawur qiling Mayk Tayson turli ishlarni qildi."
+        },
+        {
+          "order": 30,
+          "english": "May",
+          "uzbek": "mumkin",
+          "pronunciation": "mey",
+          "mnemonic_example": "Imagine in the month of May everything is possible.",
+          "translation": "Tasawur qiling May oyida hamma narsa mumkin."
+        },
+        {
+          "order": 31,
+          "english": "Mean",
+          "uzbek": "ma’no bildirmoq",
+          "pronunciation": "min",
+          "mnemonic_example": "Imagine Mr. Bean’s serious face meaning many things.",
+          "translation": "Tasawur qiling Mister Binning jiddiy qiyofasi ko‘p ma’nolarni bildiradi."
+        },
+        {
+          "order": 32,
+          "english": "Need",
+          "uzbek": "muhtoj bo‘lmoq",
+          "pronunciation": "nid",
+          "mnemonic_example": "Imagine smelling bad and needing deodorant.",
+          "translation": "Tasawur qiling sizdan yomon hid kelmoqda va siz dezodorantga muhtojsiz."
+        },
+        {
+          "order": 33,
+          "english": "Open",
+          "uzbek": "ochmoq",
+          "pronunciation": "oupen",
+          "mnemonic_example": "Imagine opening a shop with an 'Open' sign.",
+          "translation": "Tasawur qiling do‘konda 'Open' yozuvi turibdi va siz uni ochyapsiz."
+        },
+        {
+          "order": 34,
+          "english": "Pay",
+          "uzbek": "to‘lamoq",
+          "pronunciation": "pei",
+          "mnemonic_example": "Imagine paying money at Paynet.",
+          "translation": "Tasawur qiling Paynetda pul to‘layapsiz."
+        },
+        {
+          "order": 35,
+          "english": "Play",
+          "uzbek": "o‘ynamoq",
+          "pronunciation": "plei",
+          "mnemonic_example": "Imagine juggling cups like a clown playing tricks.",
+          "translation": "Tasawur qiling piyolalar bilan masqarabozdek o‘ynayapsiz."
+        },
+        {
+          "order": 36,
+          "english": "Sell",
+          "uzbek": "sotmoq",
+          "pronunciation": "sel",
+          "mnemonic_example": "Imagine a market where everything is for sale but suddenly a flood comes.",
+          "translation": "Tasawur qiling bozorda hamma narsa sotilmoqda, birdan sel kelib ketdi."
+        }
+      ]
+    },
+    {
+      "slug": "elementary2",
+      "title": "Elementary so'zlar 2",
+      "cover_image_path": "/picture/elementry words 2.png",
+      "order": 8,
+      "cards": [
+        {
+          "order": 1,
+          "english": "Send",
+          "uzbek": "jo‘natmoq",
+          "pronunciation": "send",
+          "mnemonic_example": "Santa sizga pochta orqali sovg‘a jo‘natmoqda.",
+          "translation": "Santa Claus is sending you a gift by mail."
+        },
+        {
+          "order": 2,
+          "english": "Sit",
+          "uzbek": "o‘tirmoq",
+          "pronunciation": "sit",
+          "mnemonic_example": "Muzlik davridagi sid vulqon ustida o‘tiribdi.",
+          "translation": "The sloth from Ice Age is sitting on a volcano."
+        },
+        {
+          "order": 3,
+          "english": "Speak",
+          "uzbek": "gapirmoq",
+          "pronunciation": "spik",
+          "mnemonic_example": "Siz tog‘ning cho‘qqisiga chiqib, tog‘lar bilan gaplashyapsiz.",
+          "translation": "You climbed to the peak of the mountain and are speaking with the mountains."
+        },
+        {
+          "order": 4,
+          "english": "Stand",
+          "uzbek": "turmoq",
+          "pronunciation": "stænd",
+          "mnemonic_example": "Stolba hech qachon o‘tirmaydi, faqat turadi.",
+          "translation": "A pillar never sits, it only stands."
+        },
+        {
+          "order": 5,
+          "english": "Start",
+          "uzbek": "boshlamoq",
+          "pronunciation": "start",
+          "mnemonic_example": "Musobaqa start oldi va hamma yugurishni boshladi.",
+          "translation": "The race started and everyone began to run."
+        },
+        {
+          "order": 6,
+          "english": "Stop",
+          "uzbek": "to‘xtatmoq",
+          "pronunciation": "stop",
+          "mnemonic_example": "Avtobus bekatda to‘xtadi.",
+          "translation": "The bus stopped at the station."
+        },
+        {
+          "order": 7,
+          "english": "Talk",
+          "uzbek": "gapirmoq",
+          "pronunciation": "tok",
+          "mnemonic_example": "Soqovni tok urdi va u birdan gapira boshladi.",
+          "translation": "The mute was struck by electricity and suddenly started talking."
+        },
+        {
+          "order": 8,
+          "english": "Tell",
+          "uzbek": "aytib bermoq",
+          "pronunciation": "tel",
+          "mnemonic_example": "Jinoyat haqida sizga hammasini mel aytib berdi.",
+          "translation": "The policeman told you everything about the crime."
+        },
+        {
+          "order": 9,
+          "english": "Travel",
+          "uzbek": "sayohat qilmoq",
+          "pronunciation": "trevəl",
+          "mnemonic_example": "Siz o‘t-o‘lanlar ichida sayohat qilyapsiz.",
+          "translation": "You are traveling among the grasslands."
+        },
+        {
+          "order": 10,
+          "english": "Try",
+          "uzbek": "sinab ko‘rmoq",
+          "pronunciation": "trai",
+          "mnemonic_example": "Siz terak o‘stirib boy bo‘lishni sinab ko‘ryapsiz.",
+          "translation": "You are trying to get rich by planting poplars."
+        },
+        {
+          "order": 11,
+          "english": "Understand",
+          "uzbek": "tushunmoq",
+          "pronunciation": "ʌndərstænd",
+          "mnemonic_example": "Siz Andijonda turib birdan Namanganga borishingiz kerakligini tushundingiz.",
+          "translation": "You realized in Andijan that you need to go to Namangan."
+        },
+        {
+          "order": 12,
+          "english": "Use",
+          "uzbek": "ishlatmoq",
+          "pronunciation": "juz",
+          "mnemonic_example": "Siz yuzingizni oppoq qilib, u bilan devorni bo‘yash uchun ishlatyapsiz.",
+          "translation": "You are using your white face to paint the wall."
+        },
+        {
+          "order": 13,
+          "english": "Wait",
+          "uzbek": "kutmoq",
+          "pronunciation": "weit",
+          "mnemonic_example": "Quvayt ko‘chasida turib yordam kutyapsiz.",
+          "translation": "You are standing in a street in Kuwait waiting for help."
+        },
+        {
+          "order": 14,
+          "english": "Watch",
+          "uzbek": "qaramoq",
+          "pronunciation": "wɑtʃ",
+          "mnemonic_example": "Do‘stingizni skoch bilan bog‘lab qo‘yishdi, siz esa faqat qarab turibsiz.",
+          "translation": "Your friend was tied with tape and you are just watching."
+        },
+        {
+          "order": 15,
+          "english": "Win",
+          "uzbek": "yutmoq",
+          "pronunciation": "win",
+          "mnemonic_example": "Vino ichish musobaqasida siz eng ko‘p ichib yutib chiqdiz.",
+          "translation": "You won the wine drinking contest by drinking the most."
+        },
+        {
+          "order": 16,
+          "english": "Work",
+          "uzbek": "ishlamoq",
+          "pronunciation": "wɜrk",
+          "mnemonic_example": "Siz morgda ishlaysiz.",
+          "translation": "You work in a morgue."
+        },
+        {
+          "order": 17,
+          "english": "Worry",
+          "uzbek": "xavotir olmoq",
+          "pronunciation": "wʌri",
+          "mnemonic_example": "Tishingiz og‘rib, siz shifokorga xavotir bilan bordingiz.",
+          "translation": "Your tooth hurt and you went to the doctor with worry."
+        },
+        {
+          "order": 18,
+          "english": "Answer",
+          "uzbek": "javob bermoq",
+          "pronunciation": "ansər",
+          "mnemonic_example": "Siz sevimli qizingizga gapirdingiz va u sizga javob berdi.",
+          "translation": "You spoke to the girl you like and she answered you."
+        },
+        {
+          "order": 19,
+          "english": "Ask",
+          "uzbek": "so‘ramoq",
+          "pronunciation": "æsk",
+          "mnemonic_example": "Askar sizdan yo‘l so‘rayapti.",
+          "translation": "A soldier is asking you for directions."
+        },
+        {
+          "order": 20,
+          "english": "Believe",
+          "uzbek": "ishonmoq",
+          "pronunciation": "biliv",
+          "mnemonic_example": "Siz bilimga ishonasiz, lekin aslida uni bilmaysiz.",
+          "translation": "You believe in knowledge, but actually you don’t know it."
+        },
+        {
+          "order": 21,
+          "english": "Borrow",
+          "uzbek": "qarz olmoq",
+          "pronunciation": "bɑrou",
+          "mnemonic_example": "Do‘stingiz sizdan qarz so‘rayapti.",
+          "translation": "Your friend is borrowing money from you."
+        },
+        {
+          "order": 22,
+          "english": "Carry",
+          "uzbek": "tashimoq",
+          "pronunciation": "keri",
+          "mnemonic_example": "Jim Carrey sizning yuklaringizni tashib yuribdi.",
+          "translation": "Jim Carrey is carrying your luggage."
+        },
+        {
+          "order": 23,
+          "english": "Copy",
+          "uzbek": "ko‘chirmoq",
+          "pronunciation": "kɑpi",
+          "mnemonic_example": "Siz kitobdan ko‘chirib olyapsiz.",
+          "translation": "You are copying from a book."
+        },
+        {
+          "order": 24,
+          "english": "Decide",
+          "uzbek": "qaror qilmoq",
+          "pronunciation": "disaid",
+          "mnemonic_example": "Siz Saidga qarab qaror qilyapsiz.",
+          "translation": "You are deciding something by looking at Said."
+        },
+        {
+          "order": 25,
+          "english": "Discuss",
+          "uzbek": "muhokama qilmoq",
+          "pronunciation": "diskʌs",
+          "mnemonic_example": "Mashina disklari kechqurun muhokama qilishyapti.",
+          "translation": "The car disks are discussing things at night."
+        },
+        {
+          "order": 26,
+          "english": "Eat",
+          "uzbek": "yemoq",
+          "pronunciation": "it",
+          "mnemonic_example": "Itingiz hech narsa yemay qo‘ydi.",
+          "translation": "Your dog stopped eating."
+        },
+        {
+          "order": 27,
+          "english": "Explain",
+          "uzbek": "tushuntirmoq",
+          "pronunciation": "ikspleyn",
+          "mnemonic_example": "Siz iks rejangizni tushuntiryapsiz, lekin hech kim tushunmayapti.",
+          "translation": "You are explaining your X-plan, but no one understands."
+        },
+        {
+          "order": 28,
+          "english": "Feel",
+          "uzbek": "his qilmoq",
+          "pronunciation": "fi:l",
+          "mnemonic_example": "Orqangizda fil turganini his qildingiz.",
+          "translation": "You felt that an elephant was behind you."
+        },
+        {
+          "order": 29,
+          "english": "Fill",
+          "uzbek": "to‘ldirmoq",
+          "pronunciation": "fil",
+          "mnemonic_example": "Bir guruh odamlar shartnoma to‘ldirishmoqda.",
+          "translation": "A group of people are filling a contract."
+        },
+        {
+          "order": 30,
+          "english": "Finish",
+          "uzbek": "tugatmoq",
+          "pronunciation": "finish",
+          "mnemonic_example": "Siz kitobni tugatdingiz.",
+          "translation": "You finished the book."
+        },
+        {
+          "order": 31,
+          "english": "Forget",
+          "uzbek": "unutmoq",
+          "pronunciation": "forge:t",
+          "mnemonic_example": "Do‘stlaringiz ismingizni unutib qo‘yishdi.",
+          "translation": "Your friends forgot your name."
+        },
+        {
+          "order": 32,
+          "english": "Give",
+          "uzbek": "bermoq",
+          "pronunciation": "giv",
+          "mnemonic_example": "Siz do‘stingizga GIF jo‘natib sovg‘a qildingiz.",
+          "translation": "You sent a GIF as a gift to your friend."
+        },
+        {
+          "order": 33,
+          "english": "Go",
+          "uzbek": "bormoq",
+          "pronunciation": "gou",
+          "mnemonic_example": "Siz Goaga sayohat qildingiz.",
+          "translation": "You traveled to Goa."
+        },
+        {
+          "order": 34,
+          "english": "Happen",
+          "uzbek": "ro‘y bermoq",
+          "pronunciation": "hæpən",
+          "mnemonic_example": "Heppilar orasida falokat ro‘y berdi.",
+          "translation": "A disaster happened among the happies."
+        },
+        {
+          "order": 35,
+          "english": "Hear",
+          "uzbek": "eshitmoq",
+          "pronunciation": "hiər",
+          "mnemonic_example": "Do‘stingiz birdan eshitmay qoldi va siz hayron bo‘ldingiz.",
+          "translation": "Your friend suddenly stopped hearing and you were surprised."
+        },
+        {
+          "order": 36,
+          "english": "Help",
+          "uzbek": "yordam bermoq",
+          "pronunciation": "help",
+          "mnemonic_example": "Hilpirak sizga aylanishda yordam berdi.",
+          "translation": "A pinwheel helped you spin."
+        }
+      ]
+    }
+  ]
+}

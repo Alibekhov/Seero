@@ -1,0 +1,112 @@
+/* Dark-mode overrides (light theme remains unchanged). */
+
+body.dark {
+  background-color: #0b1220 !important;
+  color: #e5e7eb !important;
+}
+
+body.dark .header,
+body.dark .sidebar,
+body.dark .main-content,
+body.dark .progress-card,
+body.dark .learning-card,
+body.dark .themes-section,
+body.dark .reviews-panel,
+body.dark .flashcard,
+body.dark .flashcard-header,
+body.dark .upcoming-reviews,
+body.dark .completion-modal .modal-content,
+body.dark .auth-modal-card {
+  background: #0f172a !important;
+  color: #e5e7eb !important;
+}
+
+body.dark .nav-link:hover,
+body.dark .nav-link.active,
+body.dark .notification-btn:hover,
+body.dark .user-profile:hover {
+  background-color: rgba(255, 255, 255, 0.06) !important;
+}
+
+body.dark .nav-link {
+  color: #cbd5e1 !important;
+}
+
+body.dark .search-input {
+  background-color: #111827 !important;
+  border-color: #334155 !important;
+  color: #e5e7eb !important;
+}
+
+body.dark .search-input::placeholder {
+  color: #94a3b8 !important;
+}
+
+body.dark .progress-label,
+body.dark .review-details h4,
+body.dark .welcome-text p,
+body.dark .review-time,
+body.dark .review-time-small {
+  color: #cbd5e1 !important;
+}
+
+body.dark .auth-form input {
+  background: #111827 !important;
+  border-color: #334155 !important;
+  color: #e5e7eb !important;
+}
+
+/* Landing page (style.css) dark-mode overrides */
+body.dark .nav-links a {
+  color: #e5e7eb !important;
+}
+
+body.dark .nav-links a::after {
+  background: #2afc98 !important;
+}
+
+body.dark .login-btn {
+  background: #111827 !important;
+  color: #e5e7eb !important;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.35) !important;
+}
+
+body.dark .login-btn:hover {
+  background: #1f2937 !important;
+  color: #e5e7eb !important;
+}
+
+body.dark .hero-content h1 {
+  color: #e5e7eb !important;
+}
+
+body.dark .hero-content p {
+  color: #cbd5e1 !important;
+}
+
+body.dark .hero-content .highlight {
+  color: #2afc98 !important;
+}
+
+body.dark .nav-links .dropdown-menu {
+  background: #0f172a !important;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4) !important;
+}
+
+body.dark .nav-links .dropdown-menu li a {
+  color: #e5e7eb !important;
+}
+
+body.dark .nav-links .dropdown-menu li a:hover {
+  background: rgba(255, 255, 255, 0.06) !important;
+}
+
+body.dark .mobile-nav-toggle {
+  border-color: rgba(255, 255, 255, 0.14) !important;
+  color: #e5e7eb !important;
+}
+
+body.dark .nav-links.open {
+  background: rgba(15, 23, 42, 0.98) !important;
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.55) !important;
+}

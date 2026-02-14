@@ -1,0 +1,629 @@
+﻿<section class="hero loading">
+      <div class="hero-content">
+        <h1 data-i18n="heroTitle" id="hero-title">
+          Tez unutishdan charchadingizmi?
+          <span class="highlight"
+            >Seero bilan o‘rganing — samarali va esda qoladigan ta’lim!</span
+          >
+        </h1>
+        <p data-i18n="heroDesc" id="hero-desc">
+          Ilmiy yondashuvlarga asoslangan texnikalar va qiziqarli o'yinlar
+          yordamida bilimingizni mustahkamlab boramiz.
+        </p>
+
+        <div class="app-buttons">
+          <a href="#" class="app-btn app-store" onclick="showAppAlert(event)">
+            <img
+              src="https://upload.wikimedia.org/wikipedia/commons/6/67/App_Store_%28iOS%29.svg"
+              alt="App Store"
+              style="
+                width: 24px;
+                height: 24px;
+                vertical-align: middle;
+                margin-right: 8px;
+              "
+            />
+            App Store
+          </a>
+          <a href="#" class="app-btn play-store" onclick="showAppAlert(event)">
+            <img
+              src="./images/play market.png"
+              alt="Play Market"
+              style="
+                width: 24px;
+                height: 24px;
+                vertical-align: middle;
+                margin-right: 8px;
+              "
+            />
+            Play Market
+          </a>
+        </div>
+
+        <!-- <div class="user-stats">
+            <div class="stats-toggle" onclick="toggleStats()"></div>
+            <div>
+                <div class="stats-text">Happy users</div>
+                <div class="stats-number" id="userCount">100+</div>
+            </div>
+        </div> -->
+
+       
+      </div>
+
+      <div class="hero-visual">
+        <div class="phone-container">
+          <div class="phone">
+            <div class="phone-screen">
+              <div class="phone-content">
+                <div class="phone-header">
+                  <div class="avatar"></div>
+                  <span data-i18n="helloMarie">Salom Zebiniso</span>
+                </div>
+
+                <div class="lesson-card">
+                  <div class="progress-circle" data-i18n="progressPercent">
+                    75%
+                  </div>
+                  <h4 data-i18n="goodResult">Yaxshi naticha!</h4>
+                  <p data-i18n="levelUp">O‘rganish darajangiz oshdi!</p>
+                </div>
+
+                <div style="margin: 20px 0">
+                  <div style="margin: 20px 0">
+                    <h4 data-i18n="yourSkills">O'rganayotgan bilimlaringiz</h4>
+                    <div class="skill-buttons">
+                      <div class="skill-btn reading" data-i18n="skillReading">
+                        📖 So'z yodlash
+                      </div>
+                      <div class="skill-btn speaking" data-i18n="skillMath">
+                        🧮 Matematika
+                      </div>
+                    </div>
+                  </div>
+
+                  <div style="margin-top: auto">
+                    <h4 data-i18n="nativeSpeakers">Native Speakers</h4>
+                    <div style="display: flex; gap: 10px; margin-top: 10px">
+                      <div
+                        style="
+                          display: flex;
+                          align-items: center;
+                          gap: 8px;
+                          background: rgba(255, 255, 255, 0.1);
+                          padding: 8px;
+                          border-radius: 15px;
+                        "
+                      >
+                        <div
+                          style="
+                            width: 30px;
+                            height: 30px;
+                            border-radius: 50%;
+                            background: linear-gradient(
+                              45deg,
+                              #ff9a9e,
+                              #fecfef
+                            );
+                          "
+                        ></div>
+                        <div>
+                          <div
+                            style="font-size: 12px; font-weight: bold"
+                            data-i18n="speakerName"
+                          >
+                            Emilia Schmidt
+                          </div>
+                          <div
+                            style="font-size: 10px; opacity: 0.8"
+                            data-i18n="nativeSpeaker"
+                          >
+                            Native speaker
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="floating-phone">
+            <div class="floating-phone-screen">
+              <h4
+                style="color: #333; margin-bottom: 10px"
+                data-i18n="dontForget"
+              >
+                Bilimni unutmang, uni mustahkamlang!
+              </h4>
+              <p style="color: #666; font-size: 12px" data-i18n="seeroDesc">
+                Seero — o‘rganishni osonlashtiradigan va eslab qolishni
+                kuchaytiradigan ilmiy yondashuv. Har kuni ozgina vaqt bilan
+                katta natijaga erishing!
+              </p>
+              <div style="margin-top: 20px">
+                <div
+                  style="
+                    width: 60px;
+                    height: 60px;
+                    background: linear-gradient(45deg, #4caf50, #45a049);
+                    border-radius: 50%;
+                    margin: 0 auto;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    color: white;
+                    font-size: 24px;
+                  "
+                >
+                  👤
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- About Section -->
+    <section class="section loading" id="about">
+      <div class="about-grid">
+        <div class="about-phone">
+          <div class="about-phone-screen">
+            <div style="padding: 15px">
+              <div
+                style="
+                  display: flex;
+                  align-items: center;
+                  gap: 10px;
+                  margin-bottom: 15px;
+                "
+              >
+                <div
+                  style="
+                    width: 30px;
+                    height: 30px;
+                    border-radius: 50%;
+                    background: linear-gradient(45deg, #ff6b6b, #ee5a52);
+                  "
+                ></div>
+                <span style="font-weight: bold" data-i18n="helloMarie"
+                  >Salom Zebiniso</span
+                >
+              </div>
+
+              <div
+                style="
+                  background: #fff3cd;
+                  border-radius: 15px;
+                  padding: 15px;
+                  margin-bottom: 15px;
+                "
+              >
+                <div style="display: flex; align-items: center; gap: 15px">
+                  <div
+                    style="
+                      width: 50px;
+                      height: 50px;
+                      border-radius: 50%;
+                      background: conic-gradient(
+                        #4caf50 0deg 270deg,
+                        #e0e0e0 270deg 360deg
+                      );
+                      display: flex;
+                      align-items: center;
+                      justify-content: center;
+                      font-weight: bold;
+                      color: #333;
+                    "
+                    data-i18n="progressPercent"
+                  >
+                    75%
+                  </div>
+                  <div>
+                    <div
+                      style="font-weight: bold; color: #333"
+                      data-i18n="goodResult"
+                    >
+                      Yaxshi naticha!
+                    </div>
+                    <div
+                      style="font-size: 12px; color: #666"
+                      data-i18n="levelUp"
+                    >
+                      O‘rganish darajangiz oshdi!
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div style="margin-bottom: 15px">
+                <div
+                  style="font-weight: bold; margin-bottom: 10px; color: #333"
+                  data-i18n="yourSkills"
+                >
+                  O'rganayotgan bilimlaringiz
+                </div>
+                <div style="display: flex; gap: 8px">
+                  <div
+                    style="
+                      flex: 1;
+                      padding: 12px;
+                      background: #e3f2fd;
+                      color: #1976d2;
+                      border-radius: 12px;
+                      text-align: center;
+                      font-size: 12px;
+                      font-weight: bold;
+                    "
+                    data-i18n="skillReading"
+                  >
+                    📖 So'z yodlash
+                  </div>
+                  <div
+                    style="
+                      flex: 1;
+                      padding: 12px;
+                      background: #e8f5e8;
+                      color: #4caf50;
+                      border-radius: 12px;
+                      text-align: center;
+                      font-size: 12px;
+                      font-weight: bold;
+                    "
+                    data-i18n="skillMath"
+                  >
+                    🧮 Matematika
+                  </div>
+                </div>
+              </div>
+
+              <div>
+                <div
+                  style="font-weight: bold; margin-bottom: 10px; color: #333"
+                  data-i18n="todayRepeatTitle"
+                >
+                  Bugun qaytarishingiz kerak bo'lgan bilimlar:
+                </div>
+                <div
+                  style="
+                    background: #f5f5f5;
+                    border-radius: 12px;
+                    padding: 10px;
+                    display: flex;
+                    align-items: center;
+                    gap: 10px;
+                  "
+                >
+                  <div
+                    style="
+                      width: 35px;
+                      height: 35px;
+                      border-radius: 50%;
+                      background: linear-gradient(45deg, #ff9a9e, #fecfef);
+                    "
+                  ></div>
+                  <div>
+                    <div
+                      style="font-size: 12px; font-weight: bold; color: #333"
+                      data-i18n="repeatMath"
+                    >
+                      Matematika
+                    </div>
+                    <div
+                      style="font-size: 10px; color: #666"
+                      data-i18n="repeatTopic"
+                    >
+                      Kvadrat tenglamalar mavzusi
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="about-content">
+          <h2 id="about-title" data-i18n="aboutTitle">
+            Seero o'zi qanaqa programma? <span class="highlight"></span>
+          </h2>
+          <h3
+            id="about-subtitle"
+            data-i18n="aboutSubtitle"
+            style="font-size: 1.8rem; color: #666; margin-bottom: 1.5rem"
+          >
+            Seero — bu o‘quvchilarning bilimni unutish muammosini hal qilish
+            uchun yaratilgan sun’iy intellekt va ilmiy yondashularga asosidagi
+            ta’limiy dasturiy ta’minot.
+          </h3>
+          <p id="about-desc1" data-i18n="aboutDesc1">
+            O‘rgangan ma’lumotlarni tez unutish — ko‘pchilik o‘quvchilarning
+            asosiy muammosi. Seero aynan shu muammoni ilmiy asoslangan
+            metodikalar yordamida samarali yechadi. Bizning platformamiz
+            quyidagi asosiy texnologiyalarga asoslanadi:
+          </p>
+          <p id="about-desc2" data-i18n="aboutDesc2">
+            Odamlar o‘rganishni to‘xtatib qo‘ymasliklari, balki uni odatga
+            aylantirishlari uchun qulay va samarali muhit yaratish. Har bir
+            inson o‘z bilimlarini nafaqat egallasin, balki uni doimiy ravishda
+            saqlab qolsin.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- How It Works Section -->
+    <section class="howitworks-section" id="how">
+      <div class="howitworks-container">
+        <h2 class="howitworks-title" data-i18n="howTitle" data-aos="fade-up">
+          Seero qanday ishlaydi
+        </h2>
+        <p
+          class="howitworks-desc"
+          data-i18n="howDesc"
+          data-aos="fade-up"
+          data-aos-delay="100"
+        >
+          Seero — SRS, Active Recall va mnemonikalar kabi ilmiy asoslangan
+          metodlarni sun’iy intellekt bilan birlashtirgan o‘quv platforma. Har
+          bir bosqich sizning o‘zlashtirish darajangiz asosida avtomatik
+          ravishda moslashtiriladi.
+        </p>
+        <div class="howitworks-timeline" id="howitworks-timeline">
+          <!-- Progress Bar -->
+          <div class="howitworks-progressbar">
+            <div class="howitworks-progress" id="howitworks-progress"></div>
+          </div>
+          <!-- Card 1 -->
+          <div class="howitworks-card" data-aos="fade-up" data-aos-delay="0">
+            <div class="howitworks-icon">🎯</div>
+            <div>
+              <div class="howitworks-card-title" data-i18n="howCard1Title">
+                O‘rganishni qanday boshlamoqchisiz?
+              </div>
+              <div class="howitworks-card-desc" data-i18n="howCard1Desc">
+                Matematika, ingliz tili yoki boshqa biror ko‘nikma — Seero siz
+                tanlagan yo‘nalish asosida mashg‘ulotlaringizni avtomatik
+                sozlaydi.
+              </div>
+              <ul class="howitworks-features">
+                <li data-i18n="howCard1Feature1">Keng mavzu tanlovi</li>
+                <li data-i18n="howCard1Feature2">
+                  Sizga moslashtirilgan dastur
+                </li>
+                <li data-i18n="howCard1Feature3">
+                  Boshlash uchun atigi bir necha qadam
+                </li>
+              </ul>
+              <a onclick="openAuthModal(event)" class="howitworks-cta" href="#" data-i18n="howCard1Btn"
+                >O'rganishni boshlash</a
+              >
+            </div>
+          </div>
+          <!-- Card 2 -->
+          <div class="howitworks-card" data-aos="fade-up" data-aos-delay="120">
+            <div class="howitworks-icon">🧠</div>
+            <div>
+              <div class="howitworks-card-title" data-i18n="howCard2Title">
+                Faol va shaxsiylashtirilgan o‘rganish
+              </div>
+              <div class="howitworks-card-desc" data-i18n="howCard2Desc">
+                AI yordamida yaratilgan mashg‘ulotlar, testlar va eslatmalar
+                orqali siz bilimni chuqurroq o‘zlashtirasiz. Har bir mashg‘ulot
+                sizning darajangiz va ehtiyojingizga moslashtiriladi.
+              </div>
+              <ul class="howitworks-features">
+                <li data-i18n="howCard2Feature1">
+                  Shaxsiylashtirilgan savollar
+                </li>
+                <li data-i18n="howCard2Feature2">
+                  Qiziqarli mashqlar va mini-testlar
+                </li>
+                <li data-i18n="howCard2Feature3">
+                  Instant tahlil va takrorlash tavsiyalari
+                </li>
+              </ul>
+              <a onclick="openAuthModal(event)" class="howitworks-cta" href="#" data-i18n="howCard2Btn"
+                >Mashg‘ulotni sinab ko‘ring
+              </a>
+            </div>
+          </div>
+          <!-- Card 3 -->
+          <div class="howitworks-card" data-aos="fade-up" data-aos-delay="240">
+            <div class="howitworks-icon">🔁</div>
+            <div>
+              <div class="howitworks-card-title" data-i18n="howCard3Title">
+                Aqlli takrorlash tizimi
+              </div>
+              <div class="howitworks-card-desc" data-i18n="howCard3Desc">
+                Seero kerakli vaqtda eslatib turadi, bilimlaringiz xotirada
+                uzoqroq saqlanadi. Takrorlashlar sizning o‘rganish tezligingizga
+                moslashtiriladi.
+              </div>
+              <ul class="howitworks-features">
+                <li data-i18n="howCard3Feature1">
+                  Oralatib takrorlash (Spaced Repetition)
+                </li>
+                <li data-i18n="howCard3Feature2">Shaxsiy eslatmalar</li>
+                <li data-i18n="howCard3Feature3">
+                  Esda saqlashni kuchaytiruvchi usullar
+                </li>
+              </ul>
+              <a onclick="openAuthModal(event)" class="howitworks-cta" href="#" data-i18n="howCard3Btn"
+                >Mashg‘ulotni takrorlash</a
+              >
+            </div>
+          </div>
+          <!-- Card 4 -->
+          <div class="howitworks-card" data-aos="fade-up" data-aos-delay="360">
+            <div class="howitworks-icon">📝</div>
+            <div>
+              <div class="howitworks-card-title" data-i18n="howCard4Title">
+                Bilimingizni tekshirib ko‘ring
+              </div>
+              <div class="howitworks-card-desc" data-i18n="howCard4Desc">
+                Seero orqali siz o‘rganayotgan mavzular bo‘yicha qisqa testlar
+                va hayotiy mashqlarni bajarasiz. Bu bilimlaringizni
+                mustahkamlashga yordam beradi.
+              </div>
+              <ul class="howitworks-features">
+                <li data-i18n="howCard4Feature1">Sizga mos savollar</li>
+                <li data-i18n="howCard4Feature2">Amaliy topshiriqlar</li>
+                <li data-i18n="howCard4Feature3">Natijalaringizni kuzatish</li>
+              </ul>
+              <a onclick="openAuthModal(event)" class="howitworks-cta" href="#" data-i18n="howCard4Btn"
+                >Testni boshlash</a
+              >
+            </div>
+          </div>
+          <!-- Card 5 -->
+          <div class="howitworks-card" data-aos="fade-up" data-aos-delay="480">
+            <div class="howitworks-icon">📈</div>
+            <div>
+              <div class="howitworks-card-title" data-i18n="howCard5Title">
+                Natijalaringizni kuzating
+              </div>
+              <div class="howitworks-card-desc" data-i18n="howCard5Desc">
+                O‘rganish jarayonidagi yutuqlaringizni ko‘rib boring va qayerda
+                yaxshilanish kerakligini aniqlang.
+              </div>
+              <ul class="howitworks-features">
+                <li data-i18n="howCard5Feature1">Batafsil statistikalar</li>
+                <li data-i18n="howCard5Feature2">O‘sishga oid tavsiyalar</li>
+                <li data-i18n="howCard5Feature3">
+                  Yutuqlaringizni ulashish imkoniyati
+                </li>
+              </ul>
+              <a onclick="openAuthModal(event)" class="howitworks-cta" href="#" data-i18n="howCard5Btn"
+                >Statistikani ko‘rish</a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Methods Section -->
+    <section class="section loading" id="methods">
+      <h2 class="section-title" data-i18n="methodsTitle">Metodikalar</h2>
+      <p class="section-subtitle" data-i18n="methodsSubtitle"></p>
+
+      <div class="methods-grid">
+        <!-- 1. Chapda matn, o'ngda rasm -->
+        <div class="method-card">
+          <div class="method-card-content left">
+            <div class="method-text">
+              <h3 data-i18n="chunkingTitle">Chunking</h3>
+              <p data-i18n="chunkingDesc">
+                📦 Chunking metodi nima? Chunking — bu katta miqdordagi
+                ma’lumotni kichik, oson hazm bo‘ladigan qismlarga (bo‘laklarga)
+                ajratib o‘rganish usuli. Bu usul inson miyasi qisqa muddatli
+                xotirada bir vaqtning o‘zida faqat cheklangan miqdorda
+                ma’lumotni ushlab tura olishini inobatga oladi. 🎯 Oddiy qilib
+                aytganda: "Ko‘p narsani bir yo‘la yodlashga urinmang — uni
+                kichik qismlarga bo‘lib, bosqichma-bosqich o‘rganing."
+              </p>
+              <a
+                href="https://www.coursera.org/articles/chunking"
+                class="learn-more-btn"
+                data-i18n="learnMore"
+                >Ko'proq bilish →</a
+              >
+            </div>
+            <div class="method-image">
+              <img src="./images/chunking.png" alt="" />
+            </div>
+          </div>
+        </div>
+
+        <!-- 2. O'ngda matn, chapda rasm -->
+        <div class="method-card">
+          <div class="method-card-content right">
+            <div class="method-image">
+              <img src="./images/SRSsketch.png" alt="" />
+            </div>
+            <div class="method-text">
+              <h3 data-i18n="srsTitle">SRS(Spaced Repetition System)</h3>
+              <p data-i18n="srsDesc">
+                SRS (Spaced Repetition System) — bu bilimlarni uzoq vaqt eslab
+                qolish uchun mo‘ljallangan o‘quv metodikasi bo‘lib, siz
+                o‘rgangan ma’lumotni aynan unutishga yaqinlashgan paytda eslatib
+                turadi. Seero orqali siz biror mavzuni o‘rganganingizdan so‘ng:
+                1-kuni ichida ilk takrorlash qilinadi, So‘ng 3-kuni, Keyin
+                7-kuni, Yana 14-kuni, Va nihoyat 30-kuni takrorlanadi. Har safar
+                to‘g‘ri javob bersangiz, Seero sizga keyingi takrorni uzoqroq
+                muddatga suradi; agar unutib qo‘ysangiz, tizim sizga tezroq
+                eslatadi. Bu usul orqali bilim miyangizga asta-sekin mustahkam
+                o‘rnashadi va uzoq vaqtga saqlanadi.
+              </p>
+              <a
+                href="https://en.wikipedia.org/wiki/Spaced_repetition"
+                class="learn-more-btn"
+                data-i18n="learnMore"
+                >Ko'proq bilish →</a
+              >
+            </div>
+          </div>
+        </div>
+
+        <!-- 3. Chapda matn, o'ngda rasm -->
+        <div class="method-card">
+          <div class="method-card-content left">
+            <div class="method-text">
+              <h3 data-i18n="activeRecallTitle">Active Recall</h3>
+              <p data-i18n="activeRecallDesc">
+                Active Recall — bu o‘rgangan ma’lumotni faol tarzda esga
+                tushirish orqali yodlashni kuchaytiradigan o‘quv usuli. Ya’ni,
+                sizga tayyor javoblar berilmaydi — aksincha, miyangizdan
+                o‘z-o‘zidan ma’lumotni “chaqirib olish” talab qilinadi. Bu
+                qanday ishlaydi? Avval ma’lumotni o‘qiysiz yoki tinglaysiz.
+                Keyin, o‘sha ma’lumot sizga savol ko‘rinishida qayta beriladi.
+                Siz esa javobni o‘zingiz eslab aytasiz yoki yozasiz. Seero
+                sizning javobingizni tekshiradi va kerak bo‘lsa takrorlatadi.
+              </p>
+              <a
+                href="https://www.bcu.ac.uk/exams-and-revision/best-ways-to-revise/active-recall"
+                class="learn-more-btn"
+                data-i18n="learnMore"
+                >Ko'proq bilish →</a
+              >
+            </div>
+            <div class="method-image">
+              <img src="./images/active recal.png"  alt="" />
+            </div>
+          </div>
+        </div>
+
+        <!-- 4. O'ngda matn, chapda rasm -->
+        <div class="method-card">
+          <div class="method-card-content right">
+            <div class="method-image">
+              <img src="./images/mnemonic.png" alt="" />
+            </div>
+            <div class="method-text">
+              <h3 data-i18n="mnemonicTitle">Mnemonika</h3>
+              <p data-i18n="mnemonicDesc">
+                Mnemonika — bu murakkab yoki eslab qolish qiyin bo‘lgan
+                ma’lumotlarni xotirada saqlashni osonlashtiruvchi texnika
+                bo‘lib, u so‘z o‘yinlari, obrazlar, qisqartmalar yoki hikoyalar
+                orqali ishlaydi. 🔎 Bu qanday ishlaydi? Har qanday murakkab
+                ma’lumot, miyaga yoqimli va esda qolarli shaklga aylantiriladi.
+                Oddiy so‘zlar, iboralar yoki hazilga o‘xshagan bog‘lanishlar
+                orqali miyaga "ilinarli" qo‘shimcha yaratiladi. Bu metod orqali
+                mantiqiy bog‘lanishdan ko‘ra, assotsiatsiyalar (bog‘lanmalar)
+                kuchli rol o‘ynaydi.
+              </p>
+              <a
+                href="https://www.verywellhealth.com/memory-tip-1-keyword-mnemonics-98466"
+                class="learn-more-btn"
+                data-i18n="learnMore"
+                >Ko'proq bilish →</a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    
