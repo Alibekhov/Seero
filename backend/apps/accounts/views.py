@@ -5,11 +5,29 @@ from rest_framework import permissions, status
 from rest_framework.response import Response
 from rest_framework.views import APIView
 from rest_framework_simplejwt.tokens import RefreshToken
+from rest_framework_simplejwt.views import TokenRefreshView
 
 from .serializers import LoginSerializer, RegisterSerializer, UserSerializer
 
 
 User = get_user_model()
+
+
+class SafeTokenRefreshView(TokenRefreshView):
+    permission_classes = [permissions.AllowAny]
+
+    def post(self, request, *args, **kwargs):
+        """
+        SimpleJWT can raise User.DoesNotExist when a refresh token references a deleted user.
+        Return 401 instead of 500 to keep the API stable.
+        """
+        try:
+            return super().post(request, *args, **kwargs)
+        except User.DoesNotExist:
+            return Response(
+                {"detail": "invalid refresh token"},
+                status=status.HTTP_401_UNAUTHORIZED,
+            )
 
 
 class RegisterView(APIView):
